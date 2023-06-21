@@ -1,0 +1,76 @@
+.active-wrapper{
+    height: 28px;
+    width: 86px;
+    border-radius: 4px;
+    background-color: rgba(46,196,182,0.17);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.not-active-wrapper{
+    height: 28px;
+    width: 86px;
+    border-radius: 4px;
+    background-color: rgba(255,82,82,0.17);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.active-text{
+    color: #2EC4B6;
+    font-family: 'Rubik';
+    font-size: 14;
+    letter-spacing: 0.25;
+    line-height: 20;
+    text-align: center;
+}
+.not-active-text{
+    color: #FF5252;
+    font-family: 'Rubik';
+    font-size: 14;
+    letter-spacing: 0.25;
+    line-height: 20;
+    text-align: center;
+}
+.status-wrapper{
+    height: 28px;
+    width: 86px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(46,196,182,0.17);
+
+    &.draft {
+        background-color: rgba(0,0,254,0.17);
+    }
+
+    &.bid{
+        background-color: rgba(231,129,51,0.17);
+
+    }
+
+    &.ended{
+        background-color:  rgba(192,200,217,0.17);
+    }
+}
+.status-text{
+    font-family: 'Rubik';
+    font-size: 14;
+    letter-spacing: 0.25;
+    line-height: 20;
+    text-align: center;
+
+    &.draft {
+        color: #0000FE;
+    }
+
+    &.bid{
+       color: #FF8F00;
+
+    }
+
+    &.ended{
+       color:  rgba(0,0,0,0.6);
+    }
+}

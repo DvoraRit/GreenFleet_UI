@@ -1,0 +1,24 @@
+.option-modal-wrapper{
+    position: absolute;
+    top: 50%;
+    left: 105%;
+    background-color: white;
+    height: 170px; 
+    box-shadow: 0 2px 25px 0 rgba(192,200,217,0.6);
+    width:150px;
+}
+.rowWrapperNotifications{
+        display: flex;
+        height: 30px;
+        justify-content: space-between; 
+        cursor: pointer;
+        width: 100%;
+        align-items: center;
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+    
+    .rowWrapperNotifications[target=notifications]
+    {
+        background-color: rgba(0,0,0,0.04);
+    }

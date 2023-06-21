@@ -1,0 +1,39 @@
+.image-picker-container {
+	width: 100%;
+	display: flex;
+	// justify-content: center;
+	// align-items: center;
+	flex: 1;
+	direction: rtl;
+
+	.picker-drop-area {
+		background-color: rgba(192, 200, 217, 0.17);
+		border: 1px dashed rgba(192, 200, 217, 0.6);
+		border-radius: 4px;
+		align-self: stretch;
+		min-width: 488px;
+		min-height: 120px;
+		display: flex;
+		flex: 1;
+		align-items: center;
+		padding: 14px 16px;
+		flex-direction: column;
+		cursor: pointer;
+
+		.reset-input-container {
+			display: flex;
+			width: 100%;
+			justify-content: flex-end;
+			z-index: 20;
+		}
+
+		p {
+			color: rgba(0, 0, 0, 0.6);
+			font-family: Rubik;
+			font-size: 14px;
+			letter-spacing: 0.25px;
+			line-height: 20px;
+			text-align: center;
+		}
+	}
+}

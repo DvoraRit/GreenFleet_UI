@@ -1,0 +1,99 @@
+.alertItem-wrapper{
+  height: fit-content;
+  width: 100%;
+  border: 1px solid rgba(192,200,217,0.17);
+  border-radius: 10px;
+  background-color: rgba(255,82,82,0.17);
+  box-shadow: 0 0 7px 0 rgba(192,200,217,0.38);
+  display: flex;
+  flex-direction: column;
+  padding:3px;
+  margin-bottom: 1rem;
+}
+.alertItem-wrapper-withShadow{
+  height: fit-content;
+  width: 100%;
+  border: 1px solid rgba(192,200,217,0.17);
+  border-radius: 10px;
+  background-color: rgba(255,82,82,0.17);
+  box-shadow: 0 0 25px 0 rgba(192,200,217,0.6);
+  display: flex;
+  flex-direction: column;
+  padding:3px;
+  margin-bottom: 1rem;
+
+}
+.alertItem-status-header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}
+.alertItem-status-MoreHoriz-icon{
+  cursor: pointer;
+}
+.alertItem-status-header-title{
+    color: #FB4659;
+    font-family: Rubik;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    line-height: 16px;
+    text-align: right;
+}
+.alertItem-information{
+    display: flex;
+    flex-direction: column;
+}
+.alertItem-information-title{
+    color: rgba(0,0,0,0.87);
+    font-family: Rubik;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    text-align: right;
+    font-weight: 500;
+
+}
+.alertItem-information-subtitle{
+    color: rgba(0,0,0,0.6);
+    font-family: Rubik;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    line-height: 16px;
+    text-align: right;
+    margin-top: -4px;
+
+}
+.alertItem-information-responsibly {
+    color: rgba(0,0,0,0.6);
+    font-family: Rubik;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    line-height: 16px;
+    text-align: right;
+    margin-top: 4px;
+  }
+  .alertItem-information-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .alertItem-information-footer-text {
+    color: rgba(0,0,0,0.87);
+    font-family: Rubik;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    line-height: 16px;
+    text-align: right;
+    font-weight: 400;
+  }
+  .alertItem-information-footer-time {
+    color: rgba(0,0,0,0.6);
+    font-family: Rubik;
+    font-size: 8px;
+    letter-spacing: 0.27px;
+    line-height: 16px;
+  }
+  
+  
