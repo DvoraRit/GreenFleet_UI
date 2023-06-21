@@ -1,0 +1,46 @@
+.menu-row-style{
+    display:flex;
+    flex-direction:row-reverse;
+    justify-content:space-between;
+    align-items: center;
+    cursor: pointer;
+    width: -webkit-fill-available;
+    height: 40px;
+    padding: 5px;
+}
+
+.menu-row-text-style{
+    color: rgba(0,0,0,0.87);
+    font-family: 'Rubik', cursive;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    text-align: right;
+    margin-right: 5px;
+}
+
+.icon-style-menu-row{
+    padding-right:5;
+    padding-left:5
+}
+
+.icon-and-text-wrapper{
+    display:flex; 
+    flex-direction:row-reverse;
+    justify-content: flex-end;
+}
+.openMenuToTheRight{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 208px;
+    width: 224px;
+    position: fixed;
+    bottom: 75px;
+    right: 5%;
+    border: 1px solid rgba(192, 200, 217, 0.38);
+    justify-content: space-around;
+    align-items: flex-end;
+    padding-top:10px;
+    padding-bottom:10px;
+}

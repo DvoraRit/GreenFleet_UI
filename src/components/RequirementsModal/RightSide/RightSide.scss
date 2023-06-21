@@ -1,0 +1,284 @@
+.search-icon-right {
+    height: 20px !important;
+    margin-left: 0px !important;
+    //margin-top: 3px !important;
+  // display: none;
+    .MuiAutocomplete-endAdornment{
+
+    }
+}
+.right-side-wrapper{
+  box-shadow: 0 2px 30px 0 rgba(192,200,217,0.6);
+  width: 100%;
+  z-index: 9;
+  
+  .MuiAutocomplete-popupIndicator {
+    transform: none !important;
+    position: fixed !important;
+  }
+}
+.table-wrapper{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.header-text{
+    color: rgba(0,0,0,0.6);
+    font-family:'Rubik', cursive;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    line-height: 16px;
+    text-align: center;
+}
+.header-text-box{
+  //border: 1px solid;
+ // cursor: col-resize;
+}
+.add-header-icon{
+    height: 15px;
+    width: 15px;
+}
+.all-requirmnts-wrapper{
+    display: flex;
+    flex-direction: column;
+    transition: height 0.4s;
+
+}
+@media only screen and (min-height: 500px) {
+  .all-requirmnts-wrapper{height:45%;}
+}
+@media only screen and (min-height: 600px) {
+  .all-requirmnts-wrapper{height:78%;}
+}
+
+@media only screen and (min-height: 700px) {
+  .all-requirmnts-wrapper{height:86%;}
+}
+
+
+.left-scroll-bar-req{
+    flex: 1 !important;
+    overflow-y: scroll;
+    overflow-x: hidden; 
+    direction: rtl;
+    justify-content: flex-start;
+    flex-direction: row;
+    display: flex;
+    position: relative;
+  }
+
+  
+
+  ::-webkit-scrollbar {
+    width: 5px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(73, 73, 73, 0.38);
+    width:2px;
+    border-radius: 100px;
+    opacity: 0.6;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #ffffff; 
+    border-radius: 100px;
+  }
+
+  .open-header-picker{
+    direction: rtl;
+    position: absolute;
+    top:150px;
+    background-color: white;
+    height: fit-content;
+    width: 197px;
+    z-index: 9;
+    box-shadow: 0 2px 30px 0 rgba(192,200,217,0.6)  ; 
+    padding: 6px;
+    flex-direction: column;
+  
+}
+
+.close-tab{
+    position: absolute;
+    left: 7px;
+    top: 8px;
+}
+.row-container-modal-false{
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    cursor: pointer;
+    direction: rtl;
+    justify-content: flex-end;
+    .row-nextTub{
+        display: flex;
+        align-items: center;
+        border: 1px solid rgba(192,200,217,0.38);
+        padding:5px;
+        justify-content: center;
+        color: rgba(0,0,0,0.87);
+        font-family: 'Rubik', cursive;
+        font-size: 13px;
+        letter-spacing: 0.25px;
+        line-height: 20px;
+        text-align: right;
+        width: 80px;
+        height: 42px;
+    }
+    .errIcon{
+        height:1rem;
+        width:1rem;
+    
+    }
+  }
+    .row-container-modal-true{
+      height: fit-content;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      background-color: rgba(46,196,182,0.17);
+      cursor: pointer;
+      direction: rtl;
+      justify-content: flex-end;
+      .row-nextTub{
+          display: flex;
+          align-items: center;
+          border: 1px solid rgba(192,200,217,0.38);
+          padding:5px;
+          justify-content: center;
+          color: rgba(0,0,0,0.87);
+          font-family: 'Rubik', cursive;
+          font-size: 13px;
+          letter-spacing: 0.25px;
+          line-height: 20px;
+          text-align: right;
+          width: 80px;
+          height: 42px;
+      }
+      .errIcon{
+          height:1rem;
+          width:1rem;
+      
+      }
+  
+  .close-icon-right-search{
+    margin-left: 14px !important;
+  }
+}
+.search-right{
+  
+  .MuiAutocomplete-root.MuiOutlinedInput-root.MuiInputBase-sizeSmall{
+    height:30px !important;
+    border-radius: 12px !important;
+		text-align: right !important;
+		align-content: flex-end !important;
+		font-size: 12px !important;
+		//margin: 10px !important;
+  	padding: 0px !important;
+		height: 30px !important;
+		direction: rtl  !important;
+    width: 100% !important;
+
+    .MuiAutocomplete-input{
+      margin-right: 50px !important;
+      height: 25px !important;
+      text-align: right !important;
+    }
+    .MuiInputBase-input{
+      text-align: right !important;
+    }
+    .MuiOutlinedInput-root.MuiAutocomplete-endAdornment{
+      right: 0 !important;
+    }
+  }
+  .MuiAutocomplete-root{
+    width: 95% !important;
+    background-color: rgba(192,200,217,0.17) !important;
+    direction: rtl !important;
+  }
+  .MuiOutlinedInput-notchedOutline{
+    border-color: #ffffff !important;
+    height: 38px !important;
+  }
+  .MuiFormLabel-root{
+    font-size: 13px !important;
+    padding-right: 40px;
+    width: inherit;
+    .Mui-focused{
+      margin-left: 80px;
+    }
+  }
+ 
+
+}
+
+
+.react-resizable {
+  position: relative;
+}
+.react-resizable-handle {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  box-sizing: border-box;
+  background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2IDYiIHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiNmZmZmZmYwMCIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI2cHgiIGhlaWdodD0iNnB4Ij48ZyBvcGFjaXR5PSIwLjMwMiI+PHBhdGggZD0iTSA2IDYgTCAwIDYgTCAwIDQuMiBMIDQgNC4yIEwgNC4yIDQuMiBMIDQuMiAwIEwgNiAwIEwgNiA2IEwgNiA2IFoiIGZpbGw9IiMwMDAwMDAiLz48L2c+PC9zdmc+');
+  background-position: bottom right;
+  padding: 0 3px 3px 0;
+}
+.react-resizable-handle-sw {
+  bottom: 0;
+  left: 0;
+  cursor: sw-resize;
+  transform: rotate(90deg);
+}
+.react-resizable-handle-se {
+  bottom: 0;
+  right: 0;
+  cursor: se-resize;
+}
+.react-resizable-handle-nw {
+  top: 0;
+  left: 0;
+  cursor: nw-resize;
+  transform: rotate(180deg);
+}
+.react-resizable-handle-ne {
+  top: 0;
+  right: 0;
+  cursor: ne-resize;
+  transform: rotate(270deg);
+}
+.react-resizable-handle-w,
+.react-resizable-handle-e {
+  top: 50%;
+  margin-top: -10px;
+  cursor: ew-resize;
+}
+.react-resizable-handle-w {
+  left: 0;
+  transform: rotate(135deg);
+}
+.react-resizable-handle-e {
+  right: 0;
+  transform: rotate(315deg);
+}
+.react-resizable-handle-n,
+.react-resizable-handle-s {
+  left: 50%;
+  margin-left: -10px;
+  cursor: ns-resize;
+}
+.react-resizable-handle-n {
+  top: 0;
+  transform: rotate(225deg);
+  display: none;
+}
+.react-resizable-handle-s {
+  bottom: 0;
+  transform: rotate(45deg);
+}

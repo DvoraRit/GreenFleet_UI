@@ -1,0 +1,28 @@
+.modal-btn {
+	height: 36px;
+	width: 127px;
+	border-radius: 8px;
+	background-color: #2ec4b6;
+	color: #ffffff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0 2px 25px 0 rgba(192, 200, 217, 0.38);
+	margin-bottom: 0.2rem;
+	cursor: pointer;
+}
+
+.modal-btn-disabled{
+	height: 36px;
+	width: 127px;
+	border-radius: 8px;
+	background-color: #2ec4b6;
+	color: #ffffff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0 2px 25px 0 rgba(192, 200, 217, 0.38);
+	margin-bottom: 0.2rem;
+	cursor: pointer;
+	opacity: 0.2;
+}

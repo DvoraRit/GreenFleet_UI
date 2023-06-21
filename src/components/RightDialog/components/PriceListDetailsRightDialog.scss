@@ -1,0 +1,32 @@
+.price-details-text{
+    height: 16px;
+    max-width: 95%;
+    color: rgba(0,0,0,0.6);
+    font-family: Rubik;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    line-height: 16px;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    white-space: nowrap;
+    text-align: right;
+}
+.balance-details-container{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.dot{
+    border:1px solid rgba(0,0,0,0.5);
+    border-radius: 50px;
+    height:1px;
+    margin-top:7px;
+    margin-right: 0.3rem;
+    margin-left: 0.3rem;
+  } 
+
+.balance-and-used-container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}

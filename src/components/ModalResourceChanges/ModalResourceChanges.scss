@@ -1,0 +1,28 @@
+.ModalResourceChanges-main {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	// z-index: 650;
+	border-radius: 6.4px;
+	box-shadow: 0 0 25px 0 rgba(192, 200, 217, 0.6);
+
+	.ModalResourceChanges-top {
+		height: 15%;
+	}
+	.ModalResourceChanges-middle {
+		height: 70%;
+		display: flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		direction: rtl;
+		padding: 0 15px;
+	}
+	.ModalResourceChanges-below {
+		direction: rtl;
+		height: 15%;
+		margin-bottom: 0.5rem;
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 0.5rem;
+	}
+}

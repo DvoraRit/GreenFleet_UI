@@ -1,0 +1,21 @@
+.row-wrapper-time-select{
+    flex-direction: row-reverse;
+    display: flex;
+    cursor: pointer;
+    padding: 5px;
+    background-color: #FFFFFF;
+    align-items: center;
+    justify-content: space-between;
+}
+.row-wrapper-time-select[target=true]{
+    background-color: rgba(192,200,217,0.6);
+}
+.text-time-filter{
+    padding-right: 5px;
+    //padding-left: 125px;
+    font-family: 'Rubik', cursive;
+    color: rgba(0,0,0,0.87);
+    font-size: 14px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+}

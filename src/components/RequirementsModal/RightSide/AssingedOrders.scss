@@ -1,0 +1,30 @@
+.top-line{
+    height: 1px;
+    margin-top: 10px;
+    border: 1px solid rgba(192,200,217,0.38);
+  
+}
+.title-recently-assinged-orders-wrapper{
+    background-color: rgba(192, 200, 217, 0.17);
+    height: 52px;
+    padding-right: 20px;
+    padding-left: 20px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+
+}
+.title-recently-assinged-orders-text{
+    color: rgba(0,0,0,0.6);
+    font-family: 'Rubik', cursive;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    text-align: right;
+}
+.arrow-black-icon{
+    cursor: pointer;
+}
+.assinged-orders-style{
+    transition: height 0.4s;
+}

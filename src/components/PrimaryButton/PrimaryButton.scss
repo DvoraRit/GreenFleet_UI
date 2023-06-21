@@ -1,0 +1,18 @@
+.primary-button {
+	color: $color-text-white;
+	background-color: $color-button-primary;
+	cursor: pointer;
+	padding: 10px 16px;
+	font-family: Rubik;
+	font-size: 14px;
+	@include border-radius(4px);
+	transition: all 0.2s;
+	// border: solid 1px darken($color-button-primary, 10%);
+	&:hover {
+		background-color: darken($color-button-primary, 3%);
+	}
+	&:disabled {
+		background-color: lighten($color-button-primary, 30%);
+		cursor: not-allowed;
+	}
+}

@@ -1,0 +1,53 @@
+.tripChipModalTooltip-main{
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    z-index: 999;
+    .tripChipModalTooltip-title{
+        color: rgba(0,0,0,0.87);
+        font-family: Rubik;
+        font-size: 16px;
+        letter-spacing: 0.5px;
+        line-height: 28px;
+        text-align: right;
+        overflow: hidden;
+        text-overflow: ellipsis; 
+        white-space: nowrap; 
+    }
+    .tripChipModalTooltip-subtitle{
+        color: rgba(0,0,0,0.6);
+        font-family: Rubik;
+        font-size: 12px;
+        letter-spacing: 0.4px;
+        line-height: 16px;
+        text-align: right;
+    }
+    .tripChipModalTooltip-sub-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .tripChipModalTooltip-right-subtitle{
+        color: rgba(0,0,0,0.38);
+        font-family: Rubik;
+        font-size: 12px;
+        letter-spacing: 0.4px;
+        line-height: 16px;
+        text-align: right;
+      }
+      .tripChipModalTooltip-left-subtitle{
+        color: rgba(0,0,0,0.6);
+        font-family: Rubik;
+        font-size: 12px;
+        letter-spacing: 0.4px;
+        line-height: 16px;
+      }
+      .tooltip-modal-worning{
+        color: #FB4659;
+        font-family: Rubik;
+        font-size: 12px;
+        letter-spacing: 0.4px;
+        line-height: 16px;
+      }
+    
+}

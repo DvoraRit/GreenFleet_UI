@@ -1,0 +1,123 @@
+.LTR{
+    direction: ltr;
+  }
+  .RTL{
+    direction: rtl;
+  }
+
+.modal-wrapper{
+    height:65px;
+    width:100%;
+    background-color:white;
+    display:flex;
+    flex-direction:row-reverse;
+    border-bottom: 1px solid rgba(204, 201, 201, 0.6);
+    align-items: center;
+    padding: 15px;
+    //border-radius: 14px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    justify-content: space-between;
+}
+.arrow-icon{
+    height: 20px;
+    width: 20px;
+    align-content: flex-end;
+    cursor: pointer;
+}
+.file-copy-icon{
+    height: 80px;
+    width: 80px;
+    // margin-right: -17px;
+    position: relative;
+    top: 9px;
+}
+.red-circle-modal{
+    background-color: #FF5252;
+    height: 18px;
+    width: 18px;
+    border: 1px solid #FFFFFF;
+    border-radius: 12px;
+    bottom: 54px;
+    left: 43px;
+    position: relative;
+   
+}
+.num-of-orders-text-modal{
+    color: #FFFFFF;
+    font-family: 'Rubik', cursive;
+    font-size: 10px;
+    padding-top: 3px;
+}
+.text-wrapper{
+    flex-direction:column;
+    text-align: right;
+    width: 100%;
+    
+}
+.text-title{
+    font-family: 'Rubik', cursive;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    color: rgba(0,0,0,0.87);
+}
+.text-subtitle{
+    color: rgba(0,0,0,0.6);
+    font-family:'Rubik', cursive;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    line-height: 16px;
+}
+
+.search-right{
+    border-radius: 12px !important;
+    text-align: right !important;
+    align-content: flex-end !important;
+    font-size: 12px !important;
+    margin: 10px !important;
+    height: 32px !important;
+    .css-9i3kzy .MuiOutlinedInput-root.MuiInputBase-sizeSmall{
+        position: absolute  !important;
+    }
+  
+    .css-1auycx3-MuiAutocomplete-root .MuiOutlinedInput-root.MuiInputBase-sizeSmall{
+            height:30px !important;
+            border-radius: 12px !important;
+            text-align: right !important;
+            align-content: flex-end !important;
+            font-size: 12px !important;
+            //margin: 10px !important;
+            padding: 0px !important;
+            direction: rtl  !important;
+            width:489px !important;
+            position: relative !important;
+            //top: -19px !important;
+    
+        .MuiAutocomplete-input{
+          margin-right: 50px !important;
+          height: 25px !important;
+        }
+        .MuiAutocomplete-endAdornment{
+          right: 0 !important;
+        }
+        .MuiFormControl-root-MuiTextField-root{
+            position: absolute !important;
+        }
+      }
+}
+
+.headers-table-container{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+}
+// .modal-wrapper{
+//     flex-direction:column;
+//     height:'-webkit-fill-available';
+// }
+.right-and-left-wrapper{
+    flex-direction:row;
+     display:flex;
+     justify-content: flex-end;
+      //height:'91%'
+}

@@ -1,0 +1,93 @@
+.req-btns-wrapper {
+	// .btn-wrapper {
+	// 	position: absolute;
+	// 	bottom: 5px;
+	// 	display: flex;
+	// 	cursor: pointer;
+	// 	justify-content: space-between;
+	// 	//z-index: 9;
+	// }
+
+	// .fileCopy {
+	// 	position: absolute;
+	// 	margin-top: -4px;
+	//     right: 0;
+	// }
+
+	// .btn-in-modal {
+	// 	position: absolute;
+	// 	top: 5px;
+	// 	//right: 150px;
+	// 	display: flex;
+	// 	z-index: 9;
+	// 	cursor: pointer;
+	// }
+	// .red-circle {
+	// 	background-color: #ff5252;
+	// 	height: 21px;
+	// 	width: 29px;
+	// 	border: 1px solid #ffffff;
+	// 	border-radius: 12px;
+	// 	bottom: 60px;
+	// 	left: 54px;
+	// 	position: absolute;
+	// }
+	.num-of-orders-text {
+		color: #ffffff;
+		font-family: 'Rubik', cursive;
+		font-size: 12px;
+		padding-top: 2px;
+	}
+
+	.add-order {
+		position: absolute;
+		right: 60px;
+		bottom: 28px;
+		cursor: pointer;
+	}
+	.adding-icon {
+		position: absolute;
+		top: 9px;
+		right: 10px;
+		z-index: 2;
+	}
+	.btn-wrapper {
+		position: absolute;
+		bottom: 28px;
+		display: flex;
+		cursor: pointer;
+		justify-content: space-between;
+		height: 49px;
+		width: 49px;
+		border: 1px solid rgba(192, 200, 217, 0.38);
+		border-radius: 8px;
+		background-color: #ffffff;
+		box-shadow: 0 2px 25px 0 rgba(192, 200, 217, 0.6);
+	}
+
+	.fileCopy {
+		height: 25px;
+		position: absolute;
+		top: 11px;
+		right: 10px;
+		width: 25px;
+	}
+	.btn-in-modal {
+		position: absolute;
+		top: 5px;
+		//right: 150px;
+		display: flex;
+		z-index: 9;
+		cursor: pointer;
+	}
+	.red-circle {
+		background-color: #ff5252;
+		height: 21px;
+		width: 29px;
+		border: 1px solid #ffffff;
+		border-radius: 12px;
+		bottom: 29px;
+		left: 29px;
+		position: absolute;
+	}
+}

@@ -1,0 +1,19 @@
+.input {
+	width: 100%;
+	height: 38px;
+	border-radius: 4px;
+	background-color: $color-gray-2;
+	border-bottom: 2px solid $color-border-gray;
+	transition: 0.2s all;
+	color: $color-text-main;
+	font-size: 14px;
+	letter-spacing: 0.25px;
+
+	&:focus {
+		border-color: $color-border-blue;
+	}
+}
+
+.error {
+	border-color: $color-error !important;
+}

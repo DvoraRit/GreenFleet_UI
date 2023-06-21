@@ -1,0 +1,55 @@
+.no-opacity-background-chip-in-modal{
+    background-color: white;
+    display: inline-block;
+    height: 42px;
+    position: absolute;
+    border-radius: 4px;
+    cursor: pointer;
+    z-index: 7;
+}
+
+.new-drive-text-in-chip{
+    color: rgba(0,0,0,0.87);
+    font-family: 'Rubik', cursive;
+    font-size: 12.14px;
+    letter-spacing: 0.22px;
+    line-height: 17.34px;
+    padding-top: 10px;
+    padding-right: 5px;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    white-space: nowrap;
+    width: 95%;
+  }
+
+  .red-sing-for-last-trip-befor-order{
+    background-color: rgba(255,82,82,0.08);
+    position: absolute;
+    display: inline-block;
+    height: 42px;
+    top: 8px;
+  }
+  .finish-reg-sing-for-last-trip-befor-order{
+    position: absolute;
+    display: inline-block;
+    height: 42px;
+    top: 8px;
+    width: 1px;
+    background-color: rgba(255,82,82,0.38);
+    border: 1px solid rgba(255,82,82,0.38);
+  }
+
+  .background-chip-in-modal{
+    box-sizing: border-box;
+    border: 1px solid rgba(192,200,217,0.17);
+    border-radius: 4px;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+  }
+  .tooltip-of-trip-in-modal{
+    box-shadow: 0 2px 25px 0 rgba(192,200,217,0.38);
+    opacity: 1 !important;
+    height:150px !important;
+    z-index: 9999 !important;
+  }

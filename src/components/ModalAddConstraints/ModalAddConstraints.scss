@@ -1,0 +1,32 @@
+.ModalResourceChanges-main{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.ModalAddIssues{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+    .ModalResourceChanges-top{
+        height: 1%;
+    }
+    .ModalIssues-top{
+        height: 5%;
+    }
+    .ModalResourceChanges-middle{
+        height: 70%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        direction: rtl;
+
+    }
+    .ModalResourceChanges-below{
+        direction: rtl;
+        height: 15%;
+        margin-bottom:0.5rem;
+        display: flex;
+        justify-content:flex-end;
+        margin-left: 0.5rem;
+    }

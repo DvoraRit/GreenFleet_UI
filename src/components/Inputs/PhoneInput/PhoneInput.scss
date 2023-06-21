@@ -1,0 +1,54 @@
+.react-tel-input {
+	display: flex;
+	direction: ltr;
+	margin: 9px 0 0;
+}
+
+.react-tel-input .form-control {
+	padding-left: 10px;
+	width: 77%;
+	height: 38px;
+	border-radius: 4px;
+	background-color: $color-gray-2;
+	border: 0;
+	border-bottom: 2px solid $color-border-gray;
+	transition: 0.2s all;
+	color: $color-text-main;
+	font-size: 14px;
+	letter-spacing: 0.25px;
+	margin-left: auto;
+	&:focus {
+		border-color: $color-border-blue;
+	}
+}
+
+.react-tel-input .flag-dropdown {
+	border-radius: 4px;
+	background-color: $color-gray-2;
+	border: 0;
+	border-bottom: 2px solid $color-border-gray;
+	width: 20%;
+}
+
+.react-tel-input .flag-dropdown.open {
+	border-radius: 4px;
+	border-bottom: 2px solid $color-border-blue;
+}
+
+.react-tel-input .selected-flag {
+	border-radius: 4px;
+	background-color: $color-gray-2;
+	width: 100%;
+}
+
+.react-tel-input .flag-dropdown.open .selected-flag {
+	background-color: $color-gray-2;
+	border-color: $color-border-blue;
+	border-radius: 4px;
+}
+
+.react-tel-input .selected-flag:hover,
+.react-tel-input .selected-flag:focus {
+	background-color: $color-gray-2;
+	border-color: $color-border-blue;
+}

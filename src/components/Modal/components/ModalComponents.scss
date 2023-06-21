@@ -1,0 +1,27 @@
+.generic-modal-header {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid rgba(192, 200, 217, 0.38);
+	padding: 10px 24px;
+
+
+	.header-title {
+		color: rgba(0, 0, 0, 0.87);
+		font-family: Rubik;
+		font-size: 16px;
+		letter-spacing: 0.5px;
+		line-height: 28px;
+		text-align: right;
+	}
+
+
+	.modal-header-icon {
+		margin-left: 6px;
+		cursor: pointer;
+
+	}
+
+
+}
