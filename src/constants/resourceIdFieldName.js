@@ -1,0 +1,1 @@
+export const RESOURCE_ID_FIELD_NAME = "resource_bank_id";

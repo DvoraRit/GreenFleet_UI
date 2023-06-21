@@ -1,0 +1,1058 @@
+{
+	"ILS": { "name": "NIS", "symbol": "₪", "he_name": "שקל", "order": 1,"short_name":"ILS"},
+	"USD": { "name": "Dollar", "symbol": "$", "he_name": "דולר", "order": 2,"short_name":"USD" },
+	"EUR": { "name": "Euro", "symbol": "€", "he_name": "אירו", "order": 3,"short_name":"EUR" },
+	"AED": {
+		"name": "United Arab Emirates Dirham",
+		"symbol": "د.إ",
+		"he_name": "דירהם",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"AFN": {
+		"name": "Afghan Afghani",
+		"symbol": "؋",
+		"he_name": "אפגני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"ALL": {
+		"namr": "Albanian Lek",
+		"symbol": "Lek",
+		"he_name": "לק",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"AMD": {
+		"name": "Armenian Dram",
+		"symbol": "դր.",
+		"he_name": "דראם ארמני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"ANG": {
+		"name": "Netherlands Antillean Guilder",
+		"symbol": "ƒ",
+		"he_name": "הגילדן האנטיליאני הולנד",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"AOA": {
+		"name": "Angolan Kwanza",
+		"symbol": "Kz",
+		"he_name": "קוונזה אנגולית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"AWG": {
+		"name": "Aruban Florin",
+		"symbol": "ƒ",
+		"he_name": "פלורין ארובני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"AZN": {
+		"name": "Azerbaijani Manat",
+		"symbol": "ман",
+		"he_name": "מנאט אזרבי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"BAM": {
+		"name": "Bosnia-Herzegovina Convertible Mark",
+		"symbol": "KM",
+		"he_name": "מרוק בוסניה והרצגוביניה",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"BDT": {
+		"name": "Bangladeshi Taka",
+		"symbol": "৳",
+		"he_name": "טאקה בנגלדשי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"BGN": {
+		"name": "Bulgarian Lev",
+		"symbol": "лв",
+		"he_name": "לב בולגרי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"BHD": {
+		"name": "Bahraini Dinar",
+		"symbol": "د.ب",
+		"he_name": "דינר בחריין",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"BIF": {
+		"name": "Burundian Franc",
+		"symbol": "Fr",
+		"he_name": "פרנק בורונדי",
+		"order": 99
+	},
+	"BOB": {
+		"name": "Bolivian Boliviano",
+		"symbol": "Bs",
+		"he_name": "בוליביאנית בוליביאנו",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"BRL": {
+		"name": "Brazilian Real",
+		"symbol": "R$",
+		"he_name": "ריאל ברזילי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"BTC": {
+		"name": "Bitcoin",
+		"symbol": "Ƀ",
+		"he_name": "ביטקוין",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"BTN": {
+		"name": "Bhutanese Ngultrum",
+		"symbol": "Nu.",
+		"he_name": "נגלטון בהוטן",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"BWP": {
+		"name": "Botswanan Pula",
+		"symbol": "P",
+		"he_name": "פולה בוצואני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"BYN": {
+		"name": "Belarusian Ruble",
+		"symbol": "Br",
+		"he_name": "רובל בלרוסי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"CDF": {
+		"name": "Congolese Franc",
+		"symbol": "Fr",
+		"he_name": "פרנק קונגולזי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"CHF": {
+		"name": "Swiss Franc",
+		"symbol": "Fr",
+		"he_name": "פרנק שוויצרי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"CLF": {
+		"name": "Chilean Unit of Account (UF)",
+		"symbol": "UF",
+		"he_name": "יחידת חשבון צ'יליאנית",
+		"order": 99,
+		"short_name": "YER"
+	},
+
+	"CNH": {
+		"name": "Chinese Yuan (Offshore)",
+		"symbol": "¥",
+		"he_name": "יאון סיני (חוסן)",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"CNY": {
+		"name": "Chinese Yuan",
+		"symbol": "¥",
+		"he_name": "יאון סיני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"CRC": {
+		"name": "Costa Rican Colón",
+		"symbol": "₡",
+		"he_name": "קלון קוסטה ריקו",
+		"order": 99,
+		"short_name": "YER"
+	},
+
+	"CUP": {
+		"name": "Cuban Peso",
+		"symbol": "$",
+		"he_name": "פסו קובדי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"CVE": {
+		"name": "Cape Verdean Escudo",
+		"symbol": "Esc",
+		"he_name": "סקוואד ורדה",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"CZK": {
+		"name": "Czech Republic Koruna",
+		"symbol": "Kč",
+		"he_name": "קרונה צ'כית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"DJF": {
+		"name": "Djiboutian Franc",
+		"symbol": "Fr",
+		"he_name": "פרנק ג׳יבוטי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"DKK": {
+		"name": "Danish Krone",
+		"symbol": "kr",
+		"he_name": "קרונה דנית",
+		"order": 99,
+		"short_name": "YER"
+	},
+
+	"DZD": {
+		"name": "Algerian Dinar",
+		"symbol": "د.ج",
+		"he_name": "דינר אלג׳ירי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"EGP": {
+		"name": "Egyptian Pound",
+		"symbol": "£",
+		"he_name": "לירה מצרית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"ERN": {
+		"name": "Eritrean Nakfa",
+		"symbol": "Nfk",
+		"he_name": "נקפה אריתריאנית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"ETB": {
+		"name": "Ethiopian Birr",
+		"symbol": "Br",
+		"he_name": "ביר אתיופי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"FJD": {
+		"name": "Fijian Dollar",
+		"symbol": "$",
+		"he_name": "דולר פיג׳י",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"FKP": {
+		"name": "Falkland Islands Pound",
+		"symbol": "£",
+		"he_name": "לירה פוקלנדית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"GBP": {
+		"name": "British Pound Sterling",
+		"symbol": "£",
+		"he_name": "לירה בריטית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"GEL": {
+		"name": "Georgian Lari",
+		"symbol": "ლ",
+		"he_name": "לרי גוארין",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"GGP": {
+		"name": "Guernsey Pound",
+		"symbol": "£",
+		"he_name": "לירה גרנזי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"GHS": {
+		"name": "Ghanaian Cedi",
+		"symbol": "₵",
+		"he_name": "סדי גאנאי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"GIP": {
+		"name": "Gibraltar Pound",
+		"symbol": "£",
+		"he_name": "לירה גיברלטר",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"GMD": {
+		"name": "Gambian Dalasi",
+		"symbol": "D",
+		"he_name": "דלאסי גמבי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"GNF": {
+		"name": "Guinean Franc",
+		"symbol": "Fr",
+		"he_name": "פרנק גינאי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"GTQ": {
+		"name": "Guatemalan Quetzal",
+		"symbol": "Q",
+		"he_name": "קוצה גואטמלי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"HNL": {
+		"name": "Honduran Lempira",
+		"symbol": "L",
+		"he_name": "למירה הונדורי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"HRK": {
+		"name": "Croatian Kuna",
+		"symbol": "kn",
+		"he_name": "קונה קרואטית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"HTG": {
+		"name": "Haitian Gourde",
+		"symbol": "G",
+		"he_name": "גרו האיטי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"HUF": {
+		"name": "Hungarian Forint",
+		"symbol": "Ft",
+		"he_name": "פורינט הונגרי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"IDR": {
+		"name": "Indonesian Rupiah",
+		"symbol": "Rp",
+		"he_name": "רופי אינדונזיה",
+		"order": 99,
+		"short_name": "YER"
+	},
+
+	"IMP": {
+		"name": "Manx pound",
+		"symbol": "£",
+		"he_name": "לירה מאנס",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"INR": {
+		"name": "Indian Rupee",
+		"symbol": "₹",
+		"he_name": "רופי אינדינסטן",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"IQD": {
+		"name": "Iraqi Dinar",
+		"symbol": "ع.د",
+		"he_name": "דינר איראקי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"IRR": {
+		"name": "Iranian Rial",
+		"symbol": "﷼",
+		"he_name": "ריאל איראני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"ISK": {
+		"name": "Icelandic Króna",
+		"symbol": "kr",
+		"he_name": "קרונה איסלנדית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"JEP": {
+		"name": "Jersey Pound",
+		"symbol": "£",
+		"he_name": "לירה גרנזי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"JMD": {
+		"name": "Jamaican Dollar",
+		"symbol": "$",
+		"he_name": "דולר ג׳מייקני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"JOD": {
+		"name": "Jordanian Dinar",
+		"symbol": "د.ا",
+		"he_name": "דינר יונדי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"JPY": {
+		"name": "Japanese Yen",
+		"symbol": "¥",
+		"he_name": "יאנה יפנית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"KES": {
+		"name": "Kenyan Shilling",
+		"symbol": "Sh",
+		"he_name": "שילינג קנייאני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"KGS": {
+		"name": "Kyrgystani Som",
+		"symbol": "лв",
+		"he_name": "סומ קירגיסטני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"KHR": {
+		"name": "Cambodian Riel",
+		"symbol": "៛",
+		"he_name": "ריאל קמבודית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"KMF": {
+		"name": "Comorian Franc",
+		"symbol": "Fr",
+		"he_name": "פרנק קומורי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"KPW": {
+		"name": "North Korean Won",
+		"symbol": "₩",
+		"he_name": "וון צפון קוריאני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"KRW": {
+		"name": "South Korean Won",
+		"symbol": "₩",
+		"he_name": "וון דרום קוריאני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"KWD": {
+		"name": "Kuwaiti Dinar",
+		"symbol": "د.ك",
+		"he_name": "דינר כווית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"KYD": {
+		"name": "Cayman Islands Dollar",
+		"symbol": "$",
+		"he_name": "דולר קימני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"KZT": {
+		"name": "Kazakhstani Tenge",
+		"symbol": "лв",
+		"he_name": "טגן קזחסטני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"LAK": {
+		"name": "Laotian Kip",
+		"symbol": "₭",
+		"he_name": "קיפ לאוטי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"LBP": {
+		"name": "Lebanese Pound",
+		"symbol": "£",
+		"he_name": "לירה לבנזית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"LKR": {
+		"name": "Sri Lankan Rupee",
+		"symbol": "₨",
+		"he_name": "רופי סרי לנקה",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"LRD": {
+		"name": "Liberian Dollar",
+		"symbol": "$",
+		"he_name": "דולר ליבריה",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"LSL": {
+		"name": "Lesotho Loti",
+		"symbol": "L",
+		"he_name": "לוטי לסוטו",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"LYD": {
+		"name": "Libyan Dinar",
+		"symbol": "ل.د",
+		"he_name": "דינר לובי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MAD": {
+		"name": "Moroccan Dirham",
+		"symbol": "د.م.",
+		"he_name": "דירה מרוקו",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MDL": {
+		"name": "Moldovan Leu",
+		"symbol": "L",
+		"he_name": "לירה מולדובה",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MGA": {
+		"name": "Malagasy Ariary",
+		"symbol": "Ar",
+		"he_name": "אריארי מלגאסי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MKD": {
+		"name": "Macedonian Denar",
+		"symbol": "ден",
+		"he_name": "דינר מקדוני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MMK": {
+		"name": "Myanma Kyat",
+		"symbol": "K",
+		"he_name": "קייט מיאנמאזי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MNT": {
+		"name": "Mongolian Tugrik",
+		"symbol": "₮",
+		"he_name": "טוגריק מונגולי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MOP": {
+		"name": "Macanese Pataca",
+		"symbol": "P",
+		"he_name": "פטקה מקטנה",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MRU": {
+		"name": "Mauritanian Ouguiya",
+		"symbol": "UM",
+		"he_name": "אוגייה מאוריטאני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MUR": {
+		"name": "Mauritian Rupee",
+		"symbol": "₨",
+		"he_name": "רופי מאוריטי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MVR": {
+		"name": "Maldivian Rufiyaa",
+		"symbol": "ރ.",
+		"he_name": "ריפייה מלדיבי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MWK": {
+		"name": "Malawian Kwacha",
+		"symbol": "MK",
+		"he_name": "קונגה מלאווי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MXN": {
+		"name": "Mexican Peso",
+		"symbol": "$",
+		"he_name": "פסו מקסיקני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MYR": {
+		"name": "Malaysian Ringgit",
+		"symbol": "RM",
+		"he_name": "ריאן מלאי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"MZN": {
+		"name": "Mozambican Metical",
+		"symbol": "MT",
+		"he_name": "מטיקל מוזמביק",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"NAD": {
+		"name": "Namibian Dollar",
+		"symbol": "$",
+		"he_name": "דולר נמיבי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"NGN": {
+		"name": "Nigerian Naira",
+		"symbol": "₦",
+		"he_name": "נירה ניגרי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"NIO": {
+		"name": "Nicaraguan Córdoba",
+		"symbol": "C$",
+		"he_name": "קורדובה ניקרדובי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"NOK": {
+		"name": "Norwegian Krone",
+		"symbol": "kr",
+		"he_name": "קרונה נורבגית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"NPR": {
+		"name": "Nepalese Rupee",
+		"symbol": "₨",
+		"he_name": "רופי נפאלי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"NZD": {
+		"name": "New Zealand Dollar",
+		"symbol": "$",
+		"he_name": "דולר ניו זילנדי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"OMR": {
+		"name": "Omani Rial",
+		"symbol": "ر.ع.",
+		"he_name": "ריאל עומאן",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"PAB": {
+		"name": "Panamanian Balboa",
+		"symbol": "B/.",
+		"he_name": "בלבו פנמי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"PEN": {
+		"name": "Peruvian Nuevo Sol",
+		"symbol": "S/.",
+		"he_name": "סול פרווי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"PGK": {
+		"name": "Papua New Guinean Kina",
+		"symbol": "K",
+		"he_name": "קינה פפואה ניו גינאה",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"PHP": {
+		"name": "Philippine Peso",
+		"symbol": "₱",
+		"he_name": "פסו פיליפיני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"PKR": {
+		"name": "Pakistani Rupee",
+		"symbol": "₨",
+		"he_name": "רופי פקיסטני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"PLN": {
+		"name": "Polish Zloty",
+		"symbol": "zł",
+		"he_name": "זלו פולני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"PYG": {
+		"name": "Paraguayan Guarani",
+		"symbol": "₲",
+		"he_name": "גורני פרגוואי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"QAR": {
+		"name": "Qatari Rial",
+		"symbol": "ر.ق",
+		"he_name": "ריאל קטארי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"RON": {
+		"name": "Romanian Leu",
+		"symbol": "L",
+		"he_name": "לירה רומניה",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"RSD": {
+		"name": "Serbian Dinar",
+		"symbol": "дин.",
+		"he_name": "דינר סרבי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"RUB": {
+		"name": "Russian Ruble",
+		"symbol": "₽",
+		"he_name": "רובל רוסי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"RWF": {
+		"name": "Rwandan Franc",
+		"symbol": "Fr",
+		"he_name": "פרנק רואנדי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SAR": {
+		"name": "Saudi Riyal",
+		"symbol": "ر.س",
+		"he_name": "ריאל סעודי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SBD": {
+		"name": "Solomon Islands Dollar",
+		"symbol": "$",
+		"he_name": "דולר סולומבי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SCR": {
+		"name": "Seychellois Rupee",
+		"symbol": "₨",
+		"he_name": "רופי סיישלי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SDG": {
+		"name": "Sudanese Pound",
+		"symbol": "£",
+		"he_name": "לירה סודני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SEK": {
+		"name": "Swedish Krona",
+		"symbol": "kr",
+		"he_name": "קרונה שוודית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SGD": {
+		"name": "Singapore Dollar",
+		"symbol": "$",
+		"he_name": "דולר סינגפורי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SHP": {
+		"name": "Saint Helena Pound",
+		"symbol": "£",
+		"he_name": "לירה סנט הלנה",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SLL": {
+		"name": "Sierra Leonean Leone",
+		"symbol": "Le",
+		"he_name": "לירה סיראלני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SOS": {
+		"name": "Somali Shilling",
+		"symbol": "S",
+		"he_name": "שילינג סומלי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SRD": {
+		"name": "Surinamese Dollar",
+		"symbol": "$",
+		"he_name": "דולר סורינמי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SSP": {
+		"name": "South Sudanese Pound",
+		"symbol": "£",
+		"he_name": "לירה דרום סודני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SVC": {
+		"name": "Salvadoran Colón",
+		"symbol": "₡",
+		"he_name": "קלוון סלבדורי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SYP": {
+		"name": "Syrian Pound",
+		"symbol": "£",
+		"he_name": "לירה סורית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"SZL": {
+		"name": "Swazi Lilangeni",
+		"symbol": "L",
+		"he_name": "לילנגני סווזי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"THB": {
+		"name": "Thai Baht",
+		"symbol": "฿",
+		"he_name": "בהט תאילנדי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"TJS": {
+		"name": "Tajikistani Somoni",
+		"symbol": "ЅМ",
+		"he_name": "סומוני טג׳יקי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"TMT": {
+		"name": "Turkmenistani Manat",
+		"symbol": "m",
+		"he_name": "מנאט טורקמניסי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"TND": {
+		"name": "Tunisian Dinar",
+		"symbol": "د.ت",
+		"he_name": "דינר טוניסי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"TOP": {
+		"name": "Tongan Pa'anga",
+		"symbol": "T$",
+		"he_name": "פאנגה טונגי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"TRY": {
+		"name": "Turkish Lira",
+		"symbol": "₺",
+		"he_name": "לירה טורקית",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"TTD": {
+		"name": "Trinidad and Tobago Dollar",
+		"symbol": "$",
+		"he_name": "דולר טרינידד וטובגו",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"TWD": {
+		"name": "New Taiwan Dollar",
+		"symbol": "NT$",
+		"he_name": "דולר חדש תאילנדי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"TZS": {
+		"name": "Tanzanian Shilling",
+		"symbol": "TSh",
+		"he_name": "שילינג טנזני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"UAH": {
+		"name": "Ukrainian Hryvnia",
+		"symbol": "₴",
+		"he_name": "גריבינה אוקראיני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"UGX": {
+		"name": "Ugandan Shilling",
+		"symbol": "USh",
+		"he_name": "שילינג אוגנדי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"UYU": {
+		"name": "Uruguayan Peso",
+		"symbol": "$",
+		"he_name": "פסו אורוגוואי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"UZS": {
+		"name": "Uzbekistan Som",
+		"symbol": "лв",
+		"he_name": "סומל אוזבקיסטני",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"VEF": {
+		"anme": "Venezuelan Bolívar Fuerte (Old)",
+		"symbol": "Bs.F.",
+		"he_name": "בוליבר ונצואלי פוטה",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"VES": {
+		"name": "Venezuelan Bolívar Soberano",
+		"symbol": "Bs.S.",
+		"he_name": "בוליבר ונצואלי סוברנואי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"VND": {
+		"name": "Vietnamese Dong",
+		"symbol": "₫",
+		"he_name": "דונג וייטנאמי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"VUV": {
+		"name": "Vanuatu Vatu",
+		"symbol": "VT",
+		"he_name": "טוטה ונואווא",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"WST": {
+		"name": "Samoan Tala",
+		"symbol": "WS$",
+		"he_name": "טלה סאמאו",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"XAF": {
+		"name": "CFA Franc BEAC",
+		"symbol": "FCFA",
+		"he_name": "פרנק צפון אפריקאי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"XAG": {
+		"name": "Silver Ounce",
+		"symbol": "oz",
+		"he_name": "אונץ זהב",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"XAU": {
+		"name": "Gold Ounce",
+		"symbol": "oz",
+		"he_name": "אונץ זהב",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"XCD": {
+		"name": "East Caribbean Dollar",
+		"symbol": "EC$",
+		"he_name": "דולר מזרח קריבי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"XOF": {
+		"name": "CFA Franc BCEAO",
+		"symbol": "CFA",
+		"he_name": "פרנק מזרח אפריקאי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"XPD": {
+		"name": "Palladium Ounce",
+		"symbol": "oz",
+		"he_name": "אונץ פלדדי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"XPF": {
+		"name": "CFP Franc",
+		"symbol": "CFPF",
+		"he_name": "פרנק צפון פרו",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"XPT": {
+		"name": "Platinum Ounce",
+		"symbol": "oz",
+		"he_name": "אונץ פליטי",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"YER": {
+		"name": "Yemeni Rial",
+		"symbol": "﷼",
+		"he_name": "ריאל תימן",
+		"order": 99,
+		"short_name": "YER"
+	},
+	"ZAR": {
+		"name": "South African Rand",
+		"symbol": "R",
+		"he_name": "ראנד דרום אפריקאי",
+		"order": 99,
+		"short_name": "ZAR"
+	},
+	"ZMW": {
+		"name": "Zambian Kwacha",
+		"symbol": "ZK",
+		"he_name": "קואדה זמבית",
+		"order": 99,
+		"short_name": "ZMW"
+	},
+	"ZWL": {
+		"name": "Zimbabwean Dollar",
+		"symbol": "Z$",
+		"he_name": "דולר זימבבואי",
+		"order": 99,
+		"short_name": "ZWL"
+	}
+}

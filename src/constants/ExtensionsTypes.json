@@ -1,0 +1,25 @@
+{
+	"activity": ["night", "weekend", "holiday"],
+	"route": [
+		"AnotherStationInTheCity",
+		"AnotherOutOfCityStation",
+		"AnotherCity",
+		"StabilizationOnly",
+		"ReleaseOnly",
+		"FarRelease",
+		"emptyBack"
+	],
+	"fees": ["EntranceToBenGurionAirport", "CartaParkingLot", "TollRoad"],
+	"additional": [
+		"StandbyTime",
+		"AdditionalDriver",
+		"AdditionalPassenger",
+		"stayingTheNight",
+		"ExtraKm",
+		"extraTime",
+		"BasePrice",
+		"MinimumPrice"
+	],
+	"indulgences": ["WIFI", "water", "Package"],
+	"unexpected": ["OrderAfterTheHourX", "cancellation"]
+}
