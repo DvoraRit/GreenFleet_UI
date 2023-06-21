@@ -1,0 +1,22 @@
+.pageStyle {
+	display: flex;
+	flex-direction: row-reverse;
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.sideMenu {
+	height: 100%;
+	width: 5%;
+	height: 100%;
+	z-index: 9999;
+}
+.mainMenu {
+	height: 100%;
+	width: 95%;
+}
+.pageStylePlanning {
+	display: flex;
+	flex-direction: row-reverse;
+	height: 100%;
+}
