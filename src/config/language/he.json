@@ -1,0 +1,2314 @@
+{
+	"title": "ותרת גריןפליט",
+	"Change Lang": "שינוי שפה",
+	"Add Tab": "הוסף טאב",
+	"noResult": "אין תוצאה",
+	"Forms": "טפסים",
+	"save":"שמור",
+	"notifications": "התראות",
+	"InTreatment": " בטיפול ",
+	"NotInTreatment": "לטיפול",
+	"notificationsInTreatment": " התראות בטיפול ",
+	"notificationsNotInTreatment": "התראות לטיפול",
+	"rejectAlert":"ביטול התראה",
+	"confirmationAlert":"אישור התראה",
+	"rejectAlertRes":"סיבת הביטול",
+	"confirmationAlertRes":"סיבת האישור",
+	"yourPlaceToMonitor": "המקום שלך להוביל נסיעות",
+	"insertPhoneNumber": "הזן את מספר הטלפון שלך לקבלת קוד אימות",
+	"sendMyNumber": "שלח לי קוד",
+	"insertConfirmation": "הזן את הקוד שנשלח אליך בהודעת SMS למספר",
+	"didntReciveCode": "לא קיבלת קוד?",
+	"sendAgain": "שלח שוב",
+	"removeConnection": " נתק קשר",
+	"connectionFather": " אב ",
+	"connectionBrother": " אח ",
+	"connectionSon": "  בן",
+	"showMoreInformation": "הצג פרטים",
+	"confirmCode": "אמת קוד",
+	"qualified": "מתאים",
+	"available": "פנוי",
+	"subConstractors": "קב\"מ",
+	"textInGroupingMenu": {
+		"records": "רשומות",
+		"mapItems": "ישויות מפה",
+		"status": "סטטוס"
+	},
+	"alertType": {
+		"skip_station": "אי מעבר בתחנה",
+		"delay_start": "איחור",
+		"no_location":"מיקום לא ידוע",
+		"check_delay_start_again":" איחור",
+		"data_incompability": "מידע לא תקין"
+	},
+
+	"filters_in_search_control": {
+		"title": {
+			"zone": "היקף",
+			"cartype_name": "רכב"
+		}
+	},
+
+	"tasksInScheduleTop": {
+		"tasks": "משימות  ",
+		"onDuty": "נסיעות  ",
+		"notOnDuty": "ללא איוש  ",
+		"halfOnDuty": " באיוש חלקי ",
+		"pages": "דף מספר",
+		"Task_free_primary_resources": " משאבים ראשיים ללא משימה "
+	},
+	"type": "סוג",
+	"date_start": "ת.התחלה",
+	"date_end": "ת.סיום",
+	"time_start": "ש.התחלה",
+	"time_end": "ש.סיום",
+	"related_trip": "נסיעה קשורה",
+	"name": "שם",
+	"nameOfReporter": "שם מזין",
+	"periodic": "תבנית מחזורית",
+	"Until": "עד",
+	"status": "סטטוס",
+	"missing_driver_name": "חסר שם נהג",
+	"welcome": "ברוך הבא",
+	"records": "רשומות",
+	"inFocus": "במיקוד",
+	"outOfFocus": "מחוץ למיקוד",
+	"allRecords": "כל הרשומות",
+	"recordsInFilter": "רשומות במיקוד",
+	"noRecords": "המתן לרשומות...",
+	"noRecordsInFocus": "אין רשומות במיקוד",
+	"Canceled": "נמחקה",
+	"driver": "נהג",
+	"chaperone": "מלווה",
+	"car_number": "מספר רכב",
+	"car_type": "סוג רכב",
+	"client": "לקוח",
+	"escorted": "מלווה",
+	"message": "הערה",
+	"active": "נסיעה פעילה",
+	"currentTrip": "נסיעה נוכחית",
+	"expected": "נסיעה צפויה",
+	"finish": "נסיעה הסתיימה",
+	"next_trip": "הנסיעה הבאה",
+	"notActive": "נסיעה לא פעילה",
+	"noAssociatedTrips": "אין נסיעות משויכות",
+	"destination": "יעד סופי",
+	"start_point": "מוצא",
+	"end_point": "יעד",
+	"inPractice": "בפועל",
+	"planned": "מתוכנן",
+	"scopes": "היקפים",
+	"logout": "התנתק",
+	"noStationsFound": "לנסיעה זו אין תחנות",
+	"setCurrentLeg": "קבע לג נוכחי",
+	"missing_status": "סטטוס חסר",
+	"noColor": "ללא",
+	"Pink": "ורוד",
+	"Torckiz": "תורכיז",
+	"Green": "ירוק",
+	"Yellow": "צהוב",
+	"Blue": "כחול",
+	"error_trip_details_not_found": "סליחה, לא מצאנו את פרטי הנסיעה",
+	"undefinedStationName": "שם תחנה לא מזוהה",
+	"missing_start_time": "missing start time",
+	"missing_end_time": "missing end time",
+	"MISSING_CLIENT_NAME": "חסר שם לקוח",
+	"MISSING_CAR_TYPE": "חסר סוג רכב",
+	"MISSING_ESCORT_NAME": "חסר שם מלווה",
+	"MISSING_Line_DESCRIPTION": "רכב ללא נסיעה",
+	"missing_current_trip_name": "חסר שם נסיעה",
+	"AddIssue": "צור אירוע משמעת חדש",
+	"AddConstraints": "צור אילוץ חדש",
+	"AddNewOrder": "צור הזמנה חדשה",
+	"AddEntity": "צור ישות",
+	"missing_phone": "חסר מספר טלפון",
+	"missing_chaperone_name": "חסר שם מלווה",
+	"missing_client_name": "חסר שם לקוח",
+	"textInPopUp": {
+		"centerMap": "מרכוז מפה",
+		"colorMap": "צביעה",
+		"chaperon": "מלווה",
+		"connection": "התקשרות",
+		"carNumber": "מס' רכב",
+		"noCarNuber": "אין מספר רכב",
+		"carType": "סוג רכב",
+		"noCarType": "אין סוג רכב",
+		"driverName": "נהג",
+		"noDeverName": "אין שם נהג",
+		"clientName": "לקוח",
+		"noClientName": "אין שם לקוח",
+		"comment": "הערה",
+		"noComment": "אין הערה",
+		"centerMapErr": "רכב לא אוייש ,אין אפשרות להציג במפה",
+		"showLeg": "הצגת לגים קדימה",
+		"choseOption": "בחר חלופה ",
+		"notifications": "טיפול בהתראות",
+		"alert_confirmation": "אישור התראה",
+		"cancel_alert": "ביטול התראה",
+		"presenting_effect": "הצגת השפעה",
+		"Define_me_as_responsible": "הגדר אותי כאחראי",
+		"reminder": "תזכורת",
+		"minutes": "דק'",
+		"tripTime": "זמני נסיעה",
+		"fiveMin": " 5 דק",
+		"twoMin": "  2 דק",
+		"tenMin": " 10  דק"
+	},
+	"textInOptionsPopUp": {
+		"centerMap": "מרכוז מפה",
+		"colorMap": "צביעה",
+		"chaperon": "מלווה",
+		"connection": "התקשרות",
+		"carNumber": "מס' רכב",
+		"noCarNuber": "אין מספר רכב",
+		"carType": "סוג רכב",
+		"noCarType": "אין סוג רכב",
+		"driverName": "נהג",
+		"noDeverName": "אין שם נהג",
+		"clientName": "לקוח",
+		"noClientName": "אין שם לקוח",
+		"comment": "הערה",
+		"noComment": "אין הערה",
+		"showLeg": "הצגת לגים קדימה",
+		"choseOption": "בחר חלופה "
+	},
+	"alerts": {
+		"overlapping_trips": "קיימת חפיפה בין נסיעות",
+		"no_chaperone": "לא אויש מלווה",
+		"no_driver": "לא אויש נהג",
+		"no_car": "לא אויש רכב",
+		"not_publish": "לא פורסם",
+		"not_publish_passenger": "לא פורסם לנוסעים",
+		"overlappingTrips": "קיימת חפיפה בין נסיעות",
+		"noChaperone": "לא אויש מלווה",
+		"noDriver": "לא אויש נהג",
+		"noCar": "לא אויש רכב",
+		"notPublish": "לא פורסם",
+		"notPublishPassenger": "לא פורסם לנוסעים"
+	},
+	"planning_dialog": {
+		"time_and_distance": "מרחק וזמן נסיעה",
+		"kilometers": "ק\"מ",
+		"minutes": "דקות",
+		"hours": "שעות",
+		"warnings": {
+			"no_chaperon": "לא אויש מלווה"
+		},
+		"fields": {
+			"driver": "נהג",
+			"driverAndChaperons": "מלווה/נהג",
+			"start_date": "ת.התחלה",
+			"end_date": "ת.סיום",
+			"start_time": "ש.התחלה",
+			"end_time": "ש. סיום",
+			"license_number": "מספר רכב",
+			"chaperone": "מלווה",
+			"passenger_vehicles": "נוסעים / רכבים",
+			"client": "לקוח",
+			"trip_type": "טיפוס נסיעה",
+			"trip_type_distance": "מרחק וזמן נסיעה",
+			"repeat": "תבנית מחזורית",
+			"comment": "הערה",
+			"order_status": "סטטוס נסיעה",
+			"time": "שעה",
+			"date": "תאריך התייצבות"
+		},
+		"repeat_patterns": {
+			"day": "יומי",
+			"week": "שבןעי",
+			"month": "חודשי",
+			"quarter": "רבעוני",
+			"half": "חצי שנתי",
+			"year": "שנתי"
+		},
+		"chaperone": "מלווה",
+		"passenger_vehicles": "נוסעים / רכבים",
+		"client": "לקוח",
+		"current_user": "שם מזין",
+		"current_trip": "נסיעה נוכחית ",
+		"driver_first_name": "שם המזין",
+		"trip_type": "טיפוס נסיעה",
+		"trip_type_distance": "מרחק וזמן נסיעה",
+		"locations": "נקודת ציון ",
+		"description": " תיאור האירוע ",
+		"entities": {
+			"driver": "נהג",
+			"car": "רכב",
+			"chaperone": "מלווה"
+		},
+		"error_label": {
+			"not_filled": "לא שובץ",
+			"blank": "לא אויש"
+		},
+		"station_item": {
+			"actual": "בפועל",
+			"planned": "מתוכנן",
+			"passengers_up": "העלאת נוסעים"
+		}
+	},
+	"time_filter": {
+		"quarterOfAnHour": "רבע שעה",
+		"HalfAnHour": "חצי שעה",
+		"hour": "שעה",
+		"twoHours": "שעתיים",
+		"display": "תצוגה"
+	},
+	"notifications_filter": {
+		"urgency": " דחיפות",
+		"status": " חומרה",
+		"timeInNotifications": "וותק",
+		"display": "מיין לפי"
+	},
+	"trip_types": {
+		"students": "תלמידים",
+		"special_education": "חינוך מיוחד",
+		"accessibility": "נגישות",
+		"workers": "עובדים",
+		"soldiers": "חיילים",
+		"events": "אירועים",
+		"inner_tourism": "תיירות פנים",
+		"outer_tourism": "תיירות חוץ",
+		"organization": "פנימי"
+	},
+	"fields": {
+		"driver": "נהג",
+		"license_number": "רכב",
+		"chaperon": "מלווה",
+		"type": "טיפוס נסיעה",
+		"num_of_passengers": "נוסעים / רכבים",
+		"passenger_vehicles": "נוסעים / רכבים"
+	},
+	"startTasks": "התחל איוש",
+	"noTasksAdded": "טרם אוישו משימות ",
+	"requirementsModal": {
+		"MannedSuccessfully": "הדרישות אוישו בהצלחה",
+		"cancel": "ביטול"
+	},
+	"driver_tasks_dialog": {
+		"total_trips": "סה\"כ נסיעות:",
+		"total_constraints": "סה\"כ אילוצים:",
+		"constraint_pending": "טרם אושר",
+		"constraint_approved": "אילוץ אושר",
+		"constraint_rejected": "אילוץ נדחה",
+		"task_item": {
+			"client": "לקוח"
+		}
+	},
+	"cancel": "ביטול",
+	"order": "דרישה",
+	"actions": {
+		"publish_schedule": "פרסם סידור עבודה",
+		"approve": "אשר",
+		"reject": "דחה",
+		"cancel": "ביטול"
+	},
+	"messages": {
+		"schedule_published_success": "סידור פורסם בהצלחה"
+	},
+	"car_size": {
+		"medium": "מיניבוס",
+		"small": "רכב פרטי",
+		"large": "אוטובוס",
+		"clear_all": "בטל סינון"
+	},
+	"inbox": {
+		"reporter": "מדווח",
+		"report_time": "זמן דיווח",
+		"report_type": "סוג דיווח",
+		"trip_name": "שם נסיעה",
+		"coordinates": "נקודת ציון",
+		"comment": "הערה",
+		"images": "תמונות"
+	},
+	"event_types": {
+		"traffic": "עומס קל",
+		"heavy-traffic": "עומס כבד",
+		"late": "איחור",
+		"passengers_in_station": "נוסעים בתחנה",
+		"stop": "עצירה",
+		"empty-station": "תחנה ריקה",
+		"continue": "המשך",
+		"accident-involved": "מעורב בתאונה",
+		"accident": "תאונה בדרך",
+		"gas-station": "תחנת דלק",
+		"speedometer": "מד אוץ",
+		"else": "אחר"
+	},
+	"textTooltipTripChip": {
+		"driver": "נהג",
+		"no_driver": "לא אויש נהג",
+		"no_chaperone": "לא אויש ",
+		"car_number": "מס' רכב",
+		"chaperone_name": "מלווה",
+		"seats": "נוסעים/רכבים",
+		"supplier": "לקוח",
+		"type": "טיפוס נסיעה",
+		"tripTime": "זמני נסיעה"
+	},
+
+	"constraint": {
+		"constraint": "אילוץ",
+		"not_yet_approved": "טרם אושר",
+		"approved": "מאושר",
+		"time": "זמן",
+		"repete_every": "תבנית מחזוריות",
+		"end_date": "עד",
+		"comment": "הערה",
+		"approve_constrain_title": "אישור האילוץ",
+		"reject_constrain_title": "דחיית האילוץ",
+		"approve_constrain_body": "האם לאשר את המופע הנוכחי או \n גם את כל המופעים העתידיים",
+		"reject_constrain_body": "האם לדחות את המופע הנוכחי או \n גם את כל המופעים העתידיים",
+		"action_approve_single": "אשר מופע נוכחי",
+		"action_reject_single": "דחה מופע נוכחי",
+		"action_approve_all": "אשר כל המופעים",
+		"action_reject_all": "דחה כל המופעים",
+		"missing_constrain_name": "חסר שם אילוץ",
+		"status": "סטטוס",
+		"repeat_none": "ללא",
+		"repeat_every week": " כל שבוע",
+		"repeat_week": "שבוע",
+		"repeat_month": "חודש",
+		"repeat_year": "שנה",
+		"repeat_half": "חצי שנה",
+		"repeat_quarter": "רבעון",
+		"repeat_by_date": "תאריך",
+		"repeat_dy_number": "כמות"
+	},
+	"SettingsPicker": {
+		"change_display_for_driver": "שינוי תצוגה לפי נהג",
+		"change_display_for_chaperon": "שינוי תצוגה לפי מלווה",
+		"not_approve_constrains": "אילוצים שלא אושרו",
+		"attention_chperon_display": "שים לב! תוכן הטבלה מכיל מידע אודות מלווים",
+		"back_to_drivers_display": "חזור לתצוגת נהגים"
+	},
+	"alertsWhenRecourseChange": {
+		"trip_to": "נסיעה ל",
+		"type_driver": "נהג",
+		"type_car": "רכב",
+		"type_chaperon": "מלווה",
+		"updated_and_overlapping": "עודכנה ויוצרת חפיפה",
+		"updated_and_closeness": "עודכנה ויוצרת צפיפות",
+		"updated_and_needs_publishing": "עודכנה ודורשת פרסום מחדש"
+	},
+
+	"ordersAction": {
+		"delete_order": "מחיקת נסיעה",
+		"are_you_sure_delete_order_one": "האם אתה בטוח שברצונך למחוק נסיעה זו?",
+		"are_you_sure_delete_order_many": "האם אתה בטוח שברצונך למחוק נסיעות אלו?",
+		"action_yes": "כן",
+		"action_no": "לא",
+		"is_trip_started": "האם הנסיעה הזו התחילה כבר?"
+	},
+	"CardTabEntity": {
+		"1": "פעיל",
+		"0": "לא פעיל",
+		"Protection": "מיגון",
+		"terminal": "מסופון",
+		"photography": "צילום",
+		"Partitions": "מחיצות",
+		"belts": "חגורות",
+		"elevator": "מעלית",
+		"safety": "בטיחות",
+		"WiFi": "WiFi",
+		"Ticketing": "כירטוס",
+		"system_type": "סוג מערכת",
+		"contact_name": "",
+		"contact_relation": "",
+		"system_name": "שם מערכת",
+		"system_finishing": "גימור",
+		"brand": "יצרן",
+		"model": "דגם",
+		"seats": "מקומות בישיבה",
+		"seats_standing": "מקומות בעמידה",
+		"car_type_name": "סוג הרכב",
+		"expenses": "פריט",
+		"expenses_count": " כמות",
+		"expenses_date": " ביקורת אחרונה",
+		"expenses_driver_name": "נהג",
+		"expenses_date_2": "החזרה",
+		"expenses_reciver_name": "מקבל",
+		"document_name": " שם מסמך",
+		"document_path": "document path",
+		"document_type": " :סוג",
+		"file_type": "סוג ",
+		"upload_at": " :מועד",
+		"document_date": " :מועד",
+		"driver_price": "",
+		"treshold_alert_limit": ":סף התראה כמות",
+		"treshold_alert_type": ":סף התראה-סוג",
+		"driver_language": "שפת נהג",
+		"Seat_belt": "חגורת בטיחות",
+		"Wifi": "Wifi",
+		"passenger_role": " תפקיד :",
+		"tab": "",
+		"extention_value": "",
+		"selected_value_type": "סוג ערך",
+		"role": "תפקיד"
+	},
+	"textAddIcon": {
+		"safety_drivers":"הצג בכרטיס נהג",
+		"safety_planning":"  הצג כרטיס משימה"
+
+	},
+	"data_table": {
+		"title": {
+			"customers": "לקוחות",
+			"vehicles": "רכב",
+			"chaperones": "מלווים",
+			"vehicles_type": "סוג רכב",
+			"trip_type": "סוג נסיעה",
+			"zones": "היקפים",
+			"drivers": "נהגים",
+			"price_list": "מחירון",
+			"users": "משתמשים",
+			"permissions": "הרשאות",
+			"user_roles": "הרשאות",
+			"hr_issues": " טפסים",
+			"orders_containers": "הזמנות",
+			"orders_debriefs": "תחקור - דוחות נסיעה",
+			"sub_constractors": "קבלן משנה",
+			"contracts": "חוזה",
+			"drivers_safty":"בטיחות - נהגים",
+			"all_stations":"כל נקודות העיניין"
+		},
+		"headers": {
+			"id": "מספר סידורי",
+			"image": "סמל",
+			"customer_icon": "סמל",
+			"_lines": "מספר פריטים",
+			"extras": "מספר תוספות",
+			"name": "שם",
+			"available": "סטטוס",
+			"contact_person_name": "שם איש קשר",
+			"car_number": "מספר רכב",
+			"icon_size": "סמל",
+			"scope": "היקף",
+			"scopes": "היקף",
+			"first_name": "שם פרטי",
+			"car_type_name": "סוג רכב",
+			"is_active": "סטטוס",
+			"addIcon": "addIcon",
+			"vehicles_icon": "סמל",
+			"nick_name": "שם",
+			"phone_number": "מספר טלפון",
+			"poc_phone_number": "טלפון",
+			"poc_name": "שם איש קשר",
+			"poc_position": "תפקיד",
+			"classification": "סיווג",
+			"phone": "טלפון",
+			"sub_contractor_icon": "סמל",
+			"contact_name": "איש קשר",
+			"contact_role": " תפקיד",
+			"address": "כתובת",
+			"pk": "PK",
+			"color": "צבע",
+			"zone": "היקף",
+			"comment": "הערה",
+			"price_list_name": "שם",
+			"type": "סוג תמחור",
+			"currency": "מטבע",
+			"vat": "מע\"מ",
+			"status": "סטטוס",
+			"numOfLines": "פריטים במחירון",
+			"numOfExsta": "פריטים בתוספות",
+			"zones": "היקף",
+			"user_role": "הרשאה",
+			"phone_numer": "טלפון",
+			"user_name": "שם משתמש",
+			"issue_type": "סוג",
+			"start_date": "ת.התחלה",
+			"start_time": "ש.התחלה",
+			"end_date": "ת.סיום",
+			"end_time": "ש. סיום",
+			"repete_every": "עד",
+			"trip_name": "שם נסיעה",
+			"created_by": "שם מזין",
+			"approved_status": "סטטוס",
+			"contract_name": "שם חוזה",
+			"contract_descriptions": "תיאור",
+			"contact_person": "שם איש קשר",
+			"tz": "תעודת זהות",
+			"items": "מחירון",
+			"role_name": "שם הרשאה",
+			"orders": "הזמנות",
+			"planning": "תכנון",
+			"control": "פיקוח",
+			"hr": "משאן",
+			"safety": "בטיחות",
+			"maintenance": "אחזקה",
+			"entities": "ישויות",
+			"show_percent": "צפיה באחוזים",
+			"show_cost": "צפיה בעלויות",
+			"users": "משתמשים",
+			"num_of_travel": "כמות נסיעות",
+			"price_list_id": "מחירון",
+			"valid_until": "תקף עד",
+			"contract_id": "חוזה",
+			"order_container_name": "שם הזמנה",
+			"description": " תיאור הזמנה",
+			"customer_id": "לקוח",
+			"alerts": "",
+			"expander": "expander",
+			"order_name": "שם הנסיעה",
+			"client_name": "לקוח",
+			"debrief_status": "סטטוס",
+			"order_start": "תאריך",
+			"invoice_url": "",
+			"station_name":"שם",
+			"latitude":"מיקום",
+			"longitude":"long",
+			"alert_date":"מועד ההתראה",
+			"alert_type":"סוג ההתראה",
+			"driver_id":"שם נהג"
+
+		},
+		"cell_data": {
+			"trip_type": {
+				"rounds": "סבבים",
+				"maintenance": "אחזקה",
+				"matching": "צמוד"
+			}
+		},
+		"actions": {
+			"orders_debriefs": {
+				"showDebrief": "הצג דוח",
+				"approveDebrief": "אשר דו״ח",
+				"editDebrief": "ערוך דו״ח",
+				"downloadDebrief": "הורד דו״ח",
+				"createInvoice": "הפק חשבונית",
+				"deleteDebrief": "מחק דו״ח"
+			},
+			"orders_containers": {
+				"delete": "מחק הזמנה",
+				"update": "ערוך הזמנה",
+				"edit": "ערוך הזמנה",
+				"duplicate": "שכפל הזמנה"
+			},
+			"orders_lines": {
+				"delete": "מחק שורת הזמנה",
+				"update": "ערוך שורת הזמנה",
+				"edit": "ערוך שורת הזמנה",
+				"duplicate": "שכפל שורת הזמנה"
+			},
+			"orders": {
+				"delete": "מחק נסיעה",
+				"update": "ערוך נסיעה",
+				"edit": "ערוך נסיעה",
+				"duplicate": "שכפל נסיעה"
+			},
+			"documents": {
+				"edit": "הוסף מסמך",
+				"update": "הוסף מסמך",
+				"delete": "מחק מסמך"
+			}
+		},
+		"ColumnsPopUpState":{
+			"update":"עריכה",
+			"delete":"מחיקה"
+		}
+	},
+	"entities_header": {
+		"filter_input": {
+			"add": "הוסף",
+			"label": "  סנן לפי נהג, רכב, פרטי נסיעה, סטטוס נסיעה ועוד  "
+		},
+		"status": "סטטוס"
+	},
+
+	"create_entity_form": {
+		"vehicles_extra": {
+			"1": "מידע טכני",
+			"in_maintenance": "באחזקה",
+			"odometer": "מד אוץ ",
+			"odometer_date": " מועד אוץ",
+			"next_treatment_distance": "קילומטרז' לטיפול הבא",
+			"next_treatment_date": "תאריך לטיפול הבא"
+		}
+	},
+
+	"entity_form": {
+		"add": "הוסף",
+		"update": "עדכון",
+		"all_stations":{
+			"update_title":"עדכון נקודת עיניין",
+			"create_title":"יצירת נקודת עיניין",
+			"station_name":"שם נקודה",
+			"latitude":"מיקום",
+			"1":"",
+			"actions":{
+				"create":"צור נקודה",
+				"update":"עדכן"
+			}
+		},
+		"datePicker": {
+			"order_start": "עיתוי נסיעה",
+			"manufacture_year": "מועד ייצור",
+			"date_of_sale": "תאריך מכירה",
+			"odometer_date": " מועד אוץ",
+			"next_treatment_date": "תאריך לטיפול הבא",
+			"expenses_date_2": "החזרה",
+			"expenses_date": " מועד ביצוע ",
+			"document_date": " מועד",
+			"birth_date": "תאריך לידה",
+			"license_expiration": "תוקף רישון",
+			"date_of_purchase": "תאריך רכישה",
+			"start_date": " תאריך התחלה",
+			"upload_at": "תאריך",
+			"end_date": "תאריך סיום"
+		},
+		"uploadPassengersDocument":{
+			"1":""
+
+		},
+		"hr_issues": {
+			"1": "פרטי אירוע",
+			"2": "פרטי תבנית",
+			"update_title": " עדכן ",
+			"create_title": "צור אילוץ",
+			"end_time": "ש. סיום",
+			"start_time": "ש.התחלה",
+			"nick_name": "נהג/מלווה ",
+			"comment": "הערה",
+			"day": "כמות מופעים",
+			"repete_every": "תבנית מחזורית ",
+			"description": "עד",
+			"actions": {
+				"create": "  שליחה",
+				"update": " עדכן אילוץ"
+			}
+		},
+
+		"sub_constractors": {
+			"create_title": " צור קבלן משנה",
+			"1": "",
+			"2": "פרטי הנה״ח",
+			"3": "הערות",
+			"4": "",
+			"name": "שם",
+			"classification": "סיווג",
+			"scopes": "היקף",
+			"travel_management_system": "מערכת ניהול נסיעות",
+			"sub_constractor_code": "מספר זיהוי",
+			"email": "דוא״ל",
+			"address": "כתובת",
+			"phone": "טלפון",
+			"account_id": "ע.מ / ח.פ / ח.צ",
+			"invoice_name": "שם לחשבונית",
+			"contact_role": " תפקיד",
+			"is_available": "פעיל",
+			"sub_contractor_icon": "סמל",
+			"comment": "הערות",
+			"update_title": " עדכן לקוח",
+			"actions": {
+				"create": "צור קבלן משנה",
+				"update": "עדכן קבלן משנה"
+			}
+		},
+		"passengers": {
+			"1": "",
+			"phone_number": " טלפון",
+			"address_on_board": "איסוף",
+			"address_off_board": "פיזור ",
+			"e_mail": "מייל",
+			"last_name": "שם משפחה",
+			"first_name": "שם פרטי",
+			"passenger_type": "תפקיד",
+			"update_title": " עדכן לקוח",
+
+			"actions": {
+				"create": "צור לקוח",
+				"update": "עדכן  "
+			}
+		},
+		"customers_contacts": {
+			"1": "",
+			"contact_type": " סוג התקשרות",
+			"contact_id": "לקוח להתקשרות",
+			"actions": {
+				"create": "צור ",
+				"update": "עדכן  "
+			}
+		},
+		"orders": {
+			"create_title": "נסיעה חדשה",
+			"update_title": "עדכן נסיעה",
+			"duplicate_title": "שכפל נסיעה",
+			"1": "מסלול",
+			"2": "עיתוי",
+			"3": "פרטי נסיעה",
+			"4": "הערות",
+			"start_point": "נקודת התייצבות",
+			"end_point": "נקודת שחרור",
+			"start_date": "תאריך התייצבות",
+			"start_time": "שעת התייצבות",
+			"end_date": "תאריך שחרור",
+			"end_time": "שעת שחרור",
+			"description": "שם נסיעה",
+
+			"driver_id": "נהג",
+			"vehicle_id": "רכב",
+			"chaperon_id": "מלווה",
+			"orders_extras": "תוספות",
+			"order_constraints": "אילוצים",
+			"type_id": "סוג נסיעה",
+			"passengers": "מספר נוסעים",
+			"customer_id": "לקוח",
+			"poc_name": "שם איש קשר",
+			"poc_phone_number": "טלפון איש קשר",
+			"comment_for_driver": "הערות לנהג",
+			"comment_for_planner": "הערות פנימיות",
+
+			"actions": {
+				"create": "צור נסיעה",
+				"duplicate": "צור נסיעה",
+				"update": "עדכן נסיעה"
+			}
+		},
+		"orders_lines": {
+			"actions": {
+				"create": "יצירת שורת הזמנה ",
+				"update": "עדכון שורת הזמנה "
+			},
+			"create_title": "יצירת שורת הזמנה ",
+			"update_title": "עדכון שורת הזמנה ",
+			"1": "",
+			"2": "עיתוי",
+			"start_lat": "נקודת התייצבות",
+			"end_lat": "נקודת שחרור",
+			"scope": "היקף",
+			"total_passengers": "כמות נוסעים",
+			"vehicles_type": "כמות וסוג רכב",
+			"vacation_schedule_id": "לוח חופשות",
+			"type_id": "טיפוס",
+			"start_date": "",
+			"documents": "הוסף אסמכתא"
+		},
+		"driver_contacts": {
+			"1": "",
+			"contact_phone": "מספר טלפון",
+			"contact_name": "שם",
+			"contact_relation": "קשר"
+		},
+		"chaperone_contacts": {
+			"1": "",
+			"contact_phone": "מספר טלפון",
+			"contact_name": "שם",
+			"contact_relation": "קשר"
+		},
+		"customers": {
+			"1": "",
+			"2": "פרטי הנה״ח",
+			"3": "הערות",
+			"4": "",
+			"name": "שם",
+			"classification": "סיווג",
+			"scope": "היקף",
+			"account_id": "מספר זיהוי",
+			"customer_email": "דוא״ל",
+			"address": "כתובת",
+			"customer_phone": "טלפון",
+			"customer_id": "ע.מ / ח.פ / ח.צ",
+			"Invoice_name": "שם לחשבונית",
+			"is_active": "פעיל",
+			"image": "סמל",
+			"customer_icon": "סמל",
+			"poc_phone_number": "טלפון",
+			"poc_name": "שם איש קשר",
+			"comment": "הערות",
+			"update_title": " עדכן לקוח",
+			"actions": {
+				"update": "עדכן",
+				"create": "צור לקוח"
+			},
+			"create_title": "יצירת לקוח"
+		},
+		"orders_containers": {
+			"update_title": "עדכן הזמנה",
+			"create_title": "הזמנה חדשה",
+			"duplicate_title": "שכפל הזמנה",
+			"1": "",
+			"customer_id": "לקוח",
+			"order_container_name": "שם הזמנה",
+			"price_list_id": "מחירון",
+			"contract_id": " שם חוזה",
+			"status": "סטטוס",
+			"price_list_item_id": "פריט מחירון",
+			"description": " תיאור הזמנה",
+			"customer_name": "לקוח",
+			"contract_name": "חוזה",
+			"price_list_name": "מחירון",
+			"total_orders": "כמות כלל הנסיעות",
+			"total_cost": "מחיר כלל הנסיעות",
+			"total_distance": "מרחק כלל הנסיעות",
+			"timing_status": "סטטוס עיתוי",
+			"start_time": "התייצבות",
+			"orders_length": "כמות נסיעות",
+			"contract_status": "סטטוס",
+			"contract_code": "קוד",
+			"driver": "נהג",
+			"vehicle": "רכב",
+			"chaperone": "מלווה",
+			"blocked": "פסולים",
+			"actions": {
+				"update": "עדכן",
+				"create": "צור הזמנה",
+				"duplicate": "שכפל הזמנה"
+			}
+		},
+		"form_controls": {
+			"file_picker": {
+				"upload_file": "העלה קובץ",
+				"size": "בגודל"
+			},
+			"document_picker": {
+				"upload_file": " גרור לכאן קובץ או"
+			}
+		},
+		"users": {
+			"1": "",
+			"create_title": "יצירת משתמש חדש",
+			"is_active": "פעיל",
+			"update_title": "עדכן משתמש",
+			"first_name": "שם פרטי",
+			"zones": "היקף",
+			"phone_numer": "טלפון",
+			"user_role": "הרשאה",
+			"actions": {
+				"update": "עדכן",
+				"create": "צור משתמש חדש"
+			}
+		},
+		"chaperones": {
+			"1": "פרטים אישיים",
+			"2": " פרטי העסקה",
+			"3": "הערות",
+			"available": "סטטוס",
+			"tz": "תעודת זהות",
+			"given_name": "שם פרטי",
+			"middle_name": "שם נוסף",
+			"last_name": "שם משפחה",
+			"nick_name": "שם לתצוגה",
+			"address": "כתובת",
+			"birth_date": "תאריך לידה",
+			"comment": "הערות",
+			"classification": "סיווג",
+			"itoran_code": "קוד איתוראן ",
+			"street": "רחוב",
+			"city": "כתובת",
+			"driver_email": "מייל",
+			"phone_number": "טלפון",
+			"car_number": "רכב משוייך",
+			"scopes": "היקף",
+			"license_number": "מספר רישיון ",
+			"contact_phone": "מספר טלפון",
+			"contact_name": "שם",
+			"contact_relation": "קשר",
+			"license_expiration": "תוקף רישון",
+			"license_type": " דרגת רישיון",
+			"language": " שפות",
+			"religion": "דת ",
+			"gender": "מגדר ",
+			"wearing_glasses": "משקפים ",
+			"weapons_license": "אקדח ",
+			"school_visa": "הסעות תלמידים ",
+			"contract_type": "חוזה עבודה",
+			"rest_day": "יום מנוחה",
+			"languages:": "שפות",
+			"can_sleep_outside": "לינה מחוץ לבית ",
+			"is_working_at_rest_day": "עבודה ביום מנוחה ",
+			"is_working_day_before_rest_day": " עבודה בערב יום המנוחה/חג ",
+			"capabilities": "יכולות",
+			"adress": "כתובת",
+			"email": "מייל",
+			"update_title": "עדכון פרטי מלווה ",
+			"create_title": "צור מלווה",
+			"actions": {
+				"update": "עדכן",
+				"create": "צור מלווה חדש"
+			}
+		},
+		"chaperones_extra": {
+			"1": "",
+			"is_active": "סטטוס",
+			"tz": "תעודת זהות",
+			"first_name": "שם פרטי",
+			"driver_middle_name": "שם נוסף",
+			"last_name": "שם משפחה",
+			"nick_name": "שם לתצוגה",
+			"birth_date": "תאריך לידה",
+			"comment": "הערות",
+			"classification": "סיווג",
+			"itoran_code": "קוד איתוראן ",
+			"street": "רחוב",
+			"city": "כתובת",
+			"driver_email": "אימייל",
+			"phone_number": "טלפון",
+			"car_number": "רכב משוייך",
+			"scopes": "היקף",
+			"create_title": "יצירת נהג  ",
+			"license_number": "מספר רישיון ",
+			"contact_phone": "מספר טלפון",
+			"contact_name": "שם",
+			"contact_relation": "קשר",
+			"license_expiration": "תוקף רישון",
+			"license_type": " דרגת רישיון",
+			"language": " שפות",
+			"religion": "דת ",
+			"gender": "מגדר ",
+			"wearing_glasses": "משקפים ",
+			"weapons_license": "אקדח ",
+			"school_visa": "הסעות תלמידים ",
+			"contract_type": "חוזה עבודה",
+			"rest_day": "יום מנוחה",
+			"can_sleep_outside": "לינה מחוץ לבית ",
+			"work_at_weekend": "עבודה ביום מנוחה ",
+			"work_day_before_rest_day": " עבודה בערב יום המנוחה/חג ",
+			"capabilities": "יכולות"
+		},
+		"drivers": {
+			"1": "פרטים אישיים",
+			"2": " פרטי העסקה",
+			"3": "הערות",
+			"4": "",
+			"5": "",
+			"6": "",
+			"is_active": "סטטוס",
+			"tz": "תעודת זהות",
+			"first_name": "שם פרטי",
+			"driver_middle_name": "שם נוסף",
+			"last_name": "שם משפחה",
+			"nick_name": "שם לתצוגה",
+			"birth_date": "תאריך לידה",
+			"comment": "הערה",
+			"classification": "סיווג",
+			"itoran_code": "קוד איתוראן ",
+			"street": "רחוב",
+			"city": "כתובת",
+			"driver_email": "אימייל",
+			"phone_number": "טלפון",
+			"car_number": "רכב משוייך",
+			"scopes": "היקף",
+			"create_title": "יצירת נהג",
+			"license_number": "מספר רישיון ",
+			"license_expiration": "תוקף רישון",
+			"license_type": " דרגת רישיון",
+			"contract_type": "חוזה עבודה",
+			"languages": " שפות",
+			"religion": "דת ",
+			"work_at_weekend": "עבודה ביום מנוחה ",
+			"gender": "מגדר ",
+			"rest_day": "יום מנוחה",
+			"can_sleep_outside": "לינה מחוץ לבית ",
+			"work_day_before_rest_day": " עבודה בערב יום המנוחה/חג ",
+			"wearing_glasses": "משקפים ",
+			"weapons_license": "אקדח ",
+			"school_visa": "הסעות תלמידים ",
+			"update_title": "עדכון פרטי נהג ",
+			"capabilities": "יכולות",
+			"select": {
+				"A": "A",
+				"B": "B",
+				"C": "C",
+				"D": "D",
+				"E": "E",
+				"F": "F"
+			},
+
+			"actions": {
+				"update": "עדכן",
+				"create": "צור נהג חדש"
+			}
+		},
+		"drivers_extra": {
+			"1": "",
+			"2": "",
+			"is_active": "סטטוס",
+			"tz": "תעודת זהות",
+			"first_name": "שם פרטי",
+			"driver_middle_name": "שם נוסף",
+			"last_name": "שם משפחה",
+			"nick_name": "שם לתצוגה",
+			"birth_date": "תאריך לידה",
+			"comment": "הערות",
+			"classification": "סיווג",
+			"itoran_code": "קוד איתוראן ",
+			"street": "רחוב",
+			"city": "כתובת",
+			"driver_email": "מייל",
+			"phone_number": "טלפון",
+			"car_number": "רכב משוייך",
+			"scopes": "היקף",
+			"create_title": "יצירת נהג",
+			"license_number": "מספר רישיון ",
+			"contact_phone": "מספר טלפון",
+			"contact_name": "שם",
+			"contact_relation": "קשר",
+			"license_expiration": "תוקף רישון",
+			"license_type": " דרגת רישיון",
+			"language": " שפות",
+			"religion": "דת ",
+			"gender": "מגדר ",
+			"wearing_glasses": "משקפים ",
+			"weapons_license": "אקדח ",
+			"school_visa": "הסעות תלמידים ",
+			"contract_type": "חוזה עבודה",
+			"rest_day": "יום מנוחה",
+			"can_sleep_outside": "לינה מחוץ לבית ",
+			"work_at_weekend": "עבודה ביום מנוחה ",
+			"work_day_before_rest_day": " עבודה בערב יום המנוחה/חג ",
+			"capabilities": "יכולות",
+			"table_lable": {
+				"number": "ספ'",
+				"license_number": "מספר רישיון ",
+				"license_expiration": "תוקף רישון",
+				"license_type": " דרגת רישיון"
+			}
+		},
+		"vehicles_type": {
+			"create_title": "יצירת סוג רכב",
+			"1": "",
+			"actions": {
+				"create": "צור סוג רכב"
+			},
+			"name": "סוג רכב"
+		},
+		"trip_type": {
+			"create_title": "יצירת סוג נסיעה",
+			"actions": {
+				"create": "צור סוג נסיעה"
+			},
+			"name": "סוג נסיעה",
+			"1": ""
+		},
+		"zones": {
+			"create_title": "יצירת היקף",
+			"actions": {
+				"create": "צור היקף",
+				"update": "עדכון"
+			},
+			"1": "",
+			"zone": "היקף"
+		},
+		"vehicles": {
+			"create_title": "יצירת רכב",
+			"update_title": "עדכון פרטי רכב ",
+			"actions": {
+				"create": "צור רכב ",
+				"update": "עדכון"
+			},
+			"1": "",
+			"2": " הערות",
+			"car_type_name": "סוג רכב",
+			"car_number": "מספר רכב",
+			"icon_size": "  סמל לתצוגה ",
+			"scope": " היקף",
+			"available": "פעיל",
+			"model": "דגם",
+			"odometer": "מד אוץ ",
+			"brand": "יצרן",
+			"manufacture_year": "מועד ייצור",
+			"model_code": "קוד דגם",
+			"engine_number": "מספר מנוע",
+			"boby_number": "מספר שלדה",
+			"date_of_purchase": "תאריך רכישה",
+			"wheel_size": "גודל צמיג",
+			"date_of_sale": "תאריך מכירה",
+			"Finishing": "גימור",
+			"seats": "מקומות בישיבה",
+			"frame_number": "מספר שילדה",
+			"seats_standing": "מקומות בעמידה",
+			"odometer_date": " מועד אוץ",
+			"next_treatment_distance": "קילומטרז' לטיפול הבא",
+			"next_treatment_date": "תאריך לטיפול הבא",
+			"system_finishing": "גימור",
+			"fit_pupils": "הסעת תלמידים",
+			"fit_disabled": "נגישות לנכים ",
+			"fit_soldiers": "הסעת חילים",
+			"fit_turism": "תיירות",
+			"system_type": "סוג מערכת",
+			"in_maintenance": "באחזקה",
+			"expenses_count": " כמות",
+			"expenses": "פריט",
+			"expenses_date": " מועד ביצוע ",
+			"expenses_driver_name": "נהג",
+			"expenses_date_2": "מועד ביצוע",
+			"expenses_reciver_name": "מקבל",
+			"document_name": " שם מסמך",
+			"document_path": "document path",
+			"document_type": " סוג",
+			"document_date": " מועד",
+
+			"table_lable": {
+				"number": "ספ'",
+				"system_type": "סוג מערכת ",
+				"system_name": "שם מערכת ",
+				"system_code": " קוד"
+			},
+			"select": {
+				"Protection": "מיגון",
+				"terminal": "מסופון",
+				"photography": "צילום",
+				"Partitions": "מחיצות",
+				"belts": "חגורות",
+				"elevator": "מעלית",
+				"safety": "בטיחות",
+				"WiFi": "WiFi",
+				"Ticketing": "כירטוס"
+			},
+			"comment": "הערה"
+		},
+		"vehicles_extra": {
+			"1": "",
+			"2": "יכולות",
+			"3": "מידע טכני",
+			"4": "",
+			"5": " ביקורת אחרונה",
+			"6": "החזרה",
+			"7": "",
+			"8": "",
+			"odometer": "מד אוץ ",
+			"model": "דגם",
+			"brand": "יצרן",
+			"manufacture_year": "מועד ייצור",
+			"model_code": "קוד דגם",
+			"engine_number": "מספר מנוע",
+			"boby_number": "מספר שלדה",
+			"date_of_purchase": "תאריך רכישה",
+			"wheel_size": "גודל צמיג",
+			"date_of_sale": "תאריך מכירה",
+			"Finishing": "גימור",
+			"seats": "מקומות בישיבה",
+			"frame_number": "מספר שילדה",
+			"seats_standing": "מקומות בעמידה",
+			"odometer_date": " מועד אוץ",
+			"next_treatment_distance": "קילומטרז' לטיפול הבא",
+			"next_treatment_date": "תאריך לטיפול הבא",
+			"system_finishing": "גימור",
+			"fit_pupils": "הסעת תלמידים",
+			"fit_disabled": "נגישות לנכים ",
+			"fit_soldiers": "הסעת חילים",
+			"fit_turism": "תיירות",
+			"system_type": "סוג מערכת",
+			"in_maintenance": "באחזקה",
+			"expenses_count": " כמות",
+			"expenses": "פריט",
+			"expenses_date": " מועד ביצוע ",
+			"expenses_driver_name": "נהג",
+			"expenses_date_2": "מועד ביצוע",
+			"expenses_reciver_name": "מקבל",
+			"document_name": " שם מסמך",
+			"document_path": "document path",
+			"document_type": " סוג",
+			"document_date": " מועד",
+
+			"table_lable": {
+				"number": "ספ'",
+				"system_type": "סוג מערכת ",
+				"system_name": "שם מערכת ",
+				"system_code": " קוד"
+			},
+			"select": {
+				"Protection": "מיגון",
+				"terminal": "מסופון",
+				"photography": "צילום",
+				"Partitions": "מחיצות",
+				"belts": "חגורות",
+				"elevator": "מעלית",
+				"safety": "בטיחות",
+				"WiFi": "WiFi",
+				"Ticketing": "כירטוס"
+			}
+		},
+		"documents": {
+			"7": "",
+			"document_name": " שם מסמך",
+			"upload_at": " מועד",
+			"file_type": " סוג",
+			"file_path": " file_path"
+		},
+		"vehicles_technical information": {
+			"1": "מידע טכני",
+			"2": " יכולות",
+			"brand": "יצרן",
+			"model": "דגם",
+			"manufacture_year": "מועד ייצור",
+			"model_code": "קוד דגם",
+			"engine_number": "מספר מנוע",
+			"boby_number": "מספר שלדה",
+			"date_of_purchase": "תאריך רכישה",
+			"wheel_size": "גודל צמיג",
+			"date_of_sale": "תאריך מכירה",
+			"Finishing": "גימור",
+			"seats": "מקומות בישיבה",
+			"seats_standing": "מקומות בעמידה"
+		},
+		"resources": {
+			"1": "",
+			"name": "משאבים",
+			"edit_tab": "הוסף משאב ",
+			"title_modal": " הוספת משאב  ",
+			"phone_number": " מספר טלפון ",
+			"nick_name": " שם נהג",
+			"car_number": " מספר רכב ",
+			"actions": {
+				"create": "עדכן"
+			}
+		},
+		"vehicles_equipment": {
+			"1": " ",
+			"2": " ביקור אחרונה",
+			"3": "החזרה",
+			"item": "פריט",
+			"amount": "כמות",
+			"audit_date": "מועד ביקורת",
+			"driver": "נהג"
+		},
+		"permissions": {
+			"actions": {
+				"create": "צור הרשאה",
+				"update": "עדכון הרשאה"
+			},
+			"create_title": "יצירת הרשאה חדשה",
+			"update_title": "עדכון הרשאה קיימת"
+		},
+		"user_roles": {
+			"1": "",
+			"role_name": "שם הרשאה",
+			"orders": "הזמנות",
+			"planning": "תכנון",
+			"control": "פיקוח",
+			"hr": "משאן",
+			"safety": "בטיחות",
+			"maintenance": "אחזקה",
+			"entities": "ישויות",
+			"show_percent": "צפיה באחוזים",
+			"show_cost": "צפיה בעלויות",
+			"users": "משתמשים",
+			"actions": {
+				"create": "צור הרשאה",
+				"update": "עדכון הרשאה"
+			},
+			"create_title": "יצירת הרשאה חדשה",
+			"update_title": "עדכון הרשאה קיימת"
+		},
+		"price_list": {
+			"create_title": "יצירת מחירון חדש",
+			"update_title": "עדכון מחירון",
+			"actions": {
+				"create": "צור מחירון",
+				"update": "עדכן מחירון"
+			},
+			"1": "",
+			"2": "פריטים",
+			"3": "תוספות",
+			"currency": "מטבע",
+			"select": {
+				"euro": "יורו",
+				"dollar": "דולר",
+				"nis": "שקל"
+			},
+			"price_list_name": "שם מחירון",
+			"status": "סטטוס",
+			"type": "סוג תמחור",
+			"vat": "מע\"מ"
+		},
+		"price_extra": {
+			"table_lable": {
+				"auto_reports": "אישור אוט' לדו\"ח",
+				"car_type": "סוג רכב",
+				"customer_price": "מחיר לקוח",
+				"driver_price": "מחיר נהג",
+				"extention_type": "סוג תוספת",
+				"extension": "תוספת",
+				"extention_value": "ערך תוספת",
+				"extention_value_type": "סוג ערך",
+				"selected_value_type": "סוג ערך",
+				"tag": "תגית",
+				"sub_contractor_price": "מחיר קב\"מ",
+				"treshold_alert_limit": "סף התראה-כמות",
+				"treshold_alert_type": "סף התראה-סוג",
+				"number": "ספ'",
+				"choose_treshold_alert_type": "בחר סוג",
+				"quantity": "כמות",
+				"line_name": "תיאור",
+				"system_type": "סוג מערכת ",
+				"system_name": "שם מערכת ",
+				"system_code": " קוד",
+				"km": "קמ\"ש",
+				"numOfStations": "מספר תחנות",
+				"time": "זמן",
+				"activity": "פעילות",
+				"route": "מסלול",
+				"fees": "אגרות",
+				"additional": "נוספים",
+				"indulgences": "פינוקים",
+				"unexpected": "בלתי-צפוי",
+				"bus": "אוטובוס",
+				"minibus": "מיניובוס",
+				"car": "רכב",
+				"night": "לילה",
+				"weekend": "שבת",
+				"holiday": "חג",
+				"AnotherStationInTheCity": "תחנה נוספת בעיר",
+				"AnotherOutOfCityStation": "תחנה נוספת מחוץ לעיר",
+				"AnotherCity": "עיר נוספת",
+				"StabilizationOnly": "התייצבות בלבד",
+				"ReleaseOnly": "שחרור בלבד",
+				"FarRelease": "שחרור רחוק",
+				"EntranceToBenGurionAirport": "כניסה לנתב\"ג",
+				"CartaParkingLot": "חניון קרטא",
+				"TollRoad": "כביש אגרה",
+				"StandbyTime": "זמן המתנה",
+				"AdditionalDriver": "נהג נוסף",
+				"ExtraKm": "קמ\"ש נוסף",
+				"extraTime": "זמן נוסף",
+				"BasePrice": "מחיר בסיס",
+				"MinimumPrice": "מחיר מינימלי",
+				"WIFI": "WIFI",
+				"water": "מים",
+				"Package": "חבילה",
+				"OrderAfterTheHourX": "X הזמנה לאחר שעה",
+				"cancellation": "ביטול",
+				"percent": "אחוז",
+				"cost": "עלות"
+			},
+			"select": {
+				"treshold_alert_limit": "סף התראה כמות",
+				"treshold_alert_type": "סף התראה-סוג",
+				"selected_value_type": "סוג ערך",
+				"extention_type": "סוג תוספת",
+				"extension": "תוספת",
+				"extention_value": "ערך תוספת",
+				"extention_value_type": "סוג ערך",
+				"car_type": "סוג רכב",
+				"km": "קמ\"ש",
+				"none": "ללא",
+				"numOfStations": "מספר תחנות",
+				"time": "זמן",
+				"activity": "פעילות",
+				"route": "מסלול",
+				"fees": "אגרות",
+				"additional": "נוספים",
+				"indulgences": "פינוקים",
+				"unexpected": "בלתי-צפוי",
+				"large": "גדול (אוטובוס)",
+				"medium": "בינוני (מיניבוס)",
+				"small": "קטן (טרנזיט) ",
+				"extraSmall": "זעיר (מונית)",
+				"night": "לילה",
+				"weekend": "סופ\"ש",
+				"holiday": "חג",
+				"AnotherStationInTheCity": "תחנה נוספת בעיר",
+				"AnotherOutOfCityStation": "תחנה נוספת מחוץ לעיר",
+				"AnotherCity": "עיר נוספת",
+				"StabilizationOnly": "התייצבות בלבד",
+				"ReleaseOnly": "שחרור בלבד",
+				"FarRelease": "שחרור רחוק",
+				"emptyBack": "חזרה ריקה",
+				"AdditionalPassenger": "נוסע נוסף",
+				"stayingTheNight": "לינה",
+				"EntranceToBenGurionAirport": "כניסה לנתב\"ג",
+				"CartaParkingLot": "חניון קרטא",
+				"TollRoad": "כביש אגרה",
+				"StandbyTime": "זמן המתנה",
+				"AdditionalDriver": "נהג נוסף",
+				"ExtraKm": "קמ\"ש נוסף",
+				"extraTime": "זמן נוסף",
+				"BasePrice": "מחיר בסיס",
+				"MinimumPrice": "מחיר מינימלי",
+				"WIFI": "WIFI",
+				"water": "מים",
+				"Package": "חבילה",
+				"OrderAfterTheHourX": "X הזמנה לאחר שעה",
+				"cancellation": "ביטול",
+				"percent": "אחוז",
+				"cost": "עלות"
+			}
+		},
+		"orders_price_extra": {
+			"create_title": "עדכן תוספות",
+			"1": "תוספות",
+			"actions": {
+				"create": "עדכן תוספות"
+			},
+			"table_lable": {
+				"auto_reports": "אישור אוט' לדו\"ח",
+				"car_type": "סוג רכב",
+				"customer_price": "מחיר לקוח",
+				"driver_price": "מחיר נהג",
+				"extention_type": "סוג תוספת",
+				"extension": "תוספת",
+				"extention_value": "ערך תוספת",
+				"extention_value_type": "סוג ערך",
+				"selected_value_type": "סוג ערך",
+				"tag": "תגית",
+				"sub_contractor_price": "מחיר קב\"מ",
+				"treshold_alert_limit": "סף התראה-כמות",
+				"treshold_alert_type": "סף התראה-סוג",
+				"number": "ספ'",
+				"choose_treshold_alert_type": "בחר סוג",
+				"quantity": "כמות",
+				"line_name": "תיאור",
+				"system_type": "סוג מערכת ",
+				"system_name": "שם מערכת ",
+				"system_code": " קוד",
+				"km": "קמ\"ש",
+				"numOfStations": "מספר תחנות",
+				"time": "זמן",
+				"activity": "פעילות",
+				"route": "מסלול",
+				"fees": "אגרות",
+				"additional": "נוספים",
+				"indulgences": "פינוקים",
+				"unexpected": "בלתי-צפוי",
+				"bus": "אוטובוס",
+				"minibus": "מיניובוס",
+				"car": "רכב",
+				"night": "לילה",
+				"weekend": "שבת",
+				"holiday": "חג",
+				"AnotherStationInTheCity": "תחנה נוספת בעיר",
+				"AnotherOutOfCityStation": "תחנה נוספת מחוץ לעיר",
+				"AnotherCity": "עיר נוספת",
+				"StabilizationOnly": "התייצבות בלבד",
+				"ReleaseOnly": "שחרור בלבד",
+				"FarRelease": "שחרור רחוק",
+				"EntranceToBenGurionAirport": "כניסה לנתב\"ג",
+				"CartaParkingLot": "חניון קרטא",
+				"TollRoad": "כביש אגרה",
+				"StandbyTime": "זמן המתנה",
+				"AdditionalDriver": "נהג נוסף",
+				"ExtraKm": "קמ\"ש נוסף",
+				"extraTime": "זמן נוסף",
+				"BasePrice": "מחיר בסיס",
+				"MinimumPrice": "מחיר מינימלי",
+				"WIFI": "WIFI",
+				"water": "מים",
+				"Package": "חבילה",
+				"OrderAfterTheHourX": "X הזמנה לאחר שעה",
+				"cancellation": "ביטול",
+				"percent": "אחוז",
+				"cost": "עלות"
+			},
+			"select": {
+				"treshold_alert_limit": "סף התראה כמות",
+				"treshold_alert_type": "סף התראה-סוג",
+				"selected_value_type": "סוג ערך",
+				"extention_type": "סוג תוספת",
+				"extension": "תוספת",
+				"extention_value": "ערך תוספת",
+				"extention_value_type": "סוג ערך",
+				"car_type": "סוג רכב",
+				"km": "קמ\"ש",
+				"none": "ללא",
+				"numOfStations": "מספר תחנות",
+				"time": "זמן",
+				"activity": "פעילות",
+				"route": "מסלול",
+				"fees": "אגרות",
+				"additional": "נוספים",
+				"indulgences": "פינוקים",
+				"unexpected": "בלתי-צפוי",
+				"large": "גדול (אוטובוס)",
+				"medium": "בינוני (מיניבוס)",
+				"small": "קטן (טרנזיט) ",
+				"extraSmall": "זעיר (מונית)",
+				"night": "לילה",
+				"weekend": "סופ\"ש",
+				"holiday": "חג",
+				"AnotherStationInTheCity": "תחנה נוספת בעיר",
+				"AnotherOutOfCityStation": "תחנה נוספת מחוץ לעיר",
+				"AnotherCity": "עיר נוספת",
+				"StabilizationOnly": "התייצבות בלבד",
+				"ReleaseOnly": "שחרור בלבד",
+				"FarRelease": "שחרור רחוק",
+				"emptyBack": "חזרה ריקה",
+				"AdditionalPassenger": "נוסע נוסף",
+				"stayingTheNight": "לינה",
+				"EntranceToBenGurionAirport": "כניסה לנתב\"ג",
+				"CartaParkingLot": "חניון קרטא",
+				"TollRoad": "כביש אגרה",
+				"StandbyTime": "זמן המתנה",
+				"AdditionalDriver": "נהג נוסף",
+				"ExtraKm": "קמ\"ש נוסף",
+				"extraTime": "זמן נוסף",
+				"BasePrice": "מחיר בסיס",
+				"MinimumPrice": "מחיר מינימלי",
+				"WIFI": "WIFI",
+				"water": "מים",
+				"Package": "חבילה",
+				"OrderAfterTheHourX": "X הזמנה לאחר שעה",
+				"cancellation": "ביטול",
+				"percent": "אחוז",
+				"cost": "עלות"
+			}
+		},
+		"contracts": {
+			"create_title": "יצירת חוזה",
+			"update_title": "עדכון חוזה",
+			"1": "",
+			"2": "פריטים",
+			"3": "תיאור",
+			"contract_descriptions": "תיאור",
+			"contact_person": "איש קשר",
+			"contract_name": "שם חוזה",
+			"status": "סטטוס",
+			"num_of_travel": "כמות נסיעות",
+			"edit_tab": " הוסף חוזים",
+			"actions": {
+				"create": "צור חוזה",
+				"update": "עדכן חוזה"
+			}
+		},
+		"Contracts_exstra": {
+			"table_lable": {
+				"num_of_extra": "ספ'",
+				"price_list_id": "מחירון",
+				"balance": "יתרה"
+			}
+		},
+		"contacts": {
+			"1": " ",
+			"2": "",
+			"first_name": "שם פרטי",
+			"last_name": "שם משפחה",
+			"role": "תפקיד",
+			"email": "מייל"
+		},
+		"constraints": {
+			"table_label": {
+				"num": "מס׳",
+				"number": "מס׳",
+				"constraint_type": "סוג אילוץ",
+				"constraint": "אילוץ",
+				"details": "פירוט"
+			},
+			"create_title": "עדכן אילוצים",
+			"actions": {
+				"create": "עדכן אילוצים",
+				"update": "עדכן אילוצים"
+			},
+			"1": "",
+			"driver": "נהג",
+			"vehicle": "רכב",
+			"chaperone": "מלווה",
+			"blocked": "פסולים",
+			"clasify": "סיוג",
+			"language": "שפה",
+			"safety_belts": "חגורת בטיחות לנוסעים",
+			"wifi": "wifi",
+			"toilet": "שירותים",
+			"he": "עברית",
+			"en": "אנגלית",
+			"ar": "ערבית",
+			"finishing": "גימור"
+		},
+		"orders_debriefs": {
+			"update_title": "דוח נסיעה: {{order_name}}",
+			"actions": {
+				"update": "עדכן פרטים"
+			},
+			"1": "",
+			"2": "",
+			"client_id": "לקוח",
+			"order_start": "עיתוי נסיעה",
+			"vehicle_type_id": "סוג רכב",
+			"trip_total_distance": "מרחק",
+			"start_time": "זמן התחלה",
+			"order_end": "זמן סיום",
+			"driver_id": "נהג",
+			"vehicle_id": "רכב",
+			"chaperone_id": "מלווה",
+			"paid_road_id": "כביש אגרה",
+			"rounds": "סבבים",
+			"order_price_item_id": "תוספות",
+			"planned_stations": "כמות תחנות מתוכננות",
+			"total_stations": "כמות תחנות בפועל",
+			"total_passengers_up": "כמות נוסעים",
+			"order_id": "הזמנה",
+			"contract_id": "חוזה"
+		}
+	},
+
+	"forms": {
+		"drive": {
+			"drivers": "נהגים",
+			"vehicles": "רכבים",
+			"trip_types": "טיפוס נסיעה",
+			"chaperones": "מלווים",
+			"num_of_passengers": "מספר נוסעים"
+		}
+	},
+
+	"right_dialog": {
+		"sub_titles": {
+			"sections": {
+				"orders_containers": {
+					"1": "פרטי הזמנה",
+					"2": "סיכום"
+				},
+				"orders_lines": {
+					"1": "פרטי שורת הזמנה",
+					"2": ""
+				},
+				"orders_debriefs": {
+					"1": "סטטוס דו״ח",
+					"2": "עיתוי נסיעה"
+				}
+			},
+			"customers": "פרטי לקוח",
+			"sub_constractors": "פרטי לקוח",
+			"chaperones": "",
+			"vehicles": "פרטי רכב",
+			"comments": "הערות",
+			"drivers": "",
+			"price_list": "פרטי מחירון",
+			"contracts": "פרטי חוזה",
+			"contacts": "פרטי איש קשר",
+			"passengers": "פרטי נוסע",
+			"orders_containers": ""
+		},
+		"customers_contacts": {
+			"keys": {
+				"phone_number": " טלפון",
+				"address_on_board": "איסוף,",
+				"address_off_board": "פיזור ",
+				"e_mail": "מייל",
+				"passenger_type": "תפקיד"
+			}
+		},
+
+		"passengers": {
+			"keys": {
+				"phone_number": " טלפון",
+				"address_on_board": "איסוף,",
+				"address_off_board": "פיזור ",
+				"e_mail": "מייל",
+				"passenger_type": "תפקיד"
+			}
+		},
+		"orders_containers": {
+			"keys": {
+				"order_container_name": "תיאור הזמנה",
+				"customer_id": "לקוח",
+				"status": "סטטוס הזמנה",
+				"contract_id": "חוזה",
+				"price_list_id": "מחירון",
+				"price_list_item_id": "פריט מחירון",
+				"description": "תיאור הזמנה",
+				"total_amount_orders": "כמות כלל הנסיעות",
+				"amount": "כמות כלל הנסיעות",
+				"distance": "מרחק כלל הנסיעות",
+				"price": "מחיר כלל הנסיעות"
+			},
+			"versions": {
+				"version": "גירסה",
+				"updated_by": "עודכן ע״י",
+				"created": "יצירת גירסה",
+				"changed_cols": "שדות שהשתנו",
+				"cols": {
+					"order_container_name": "שם הזמנה",
+					"customer_id": "לקוח",
+					"contract_id": "חוזה",
+					"price_list_id": "מחירון",
+					"price_list_item_id": "פריט מחירון",
+					"description": " תיאור הזמנה"
+				}
+			}
+		},
+		"orders_lines": {
+			"keys": {
+				"start_date": "תאריך התייצבות",
+				"start_day": "יום התייצבות",
+				"end_date": "מועד סיום",
+				"start_time": "שעת התייצבות",
+				"vacation_calendar": "לוח חופשות",
+				"type_id": "טיפוס נסיעה",
+				"number_of_timings": "כמות נסיעות",
+				"vehicle_type_id": "סוג וכמות רכבים",
+				"total_passengers": "כמות נוסעים",
+				"documents": "מצורפים"
+			}
+		},
+		"sub_constractors": {
+			"keys": {
+				"is_active": "סטטוס",
+				"is_available": "סטטוס",
+				"address": "כתובת",
+				"comment": "הערות",
+				"classification": "סיווג",
+				"name": "שם ",
+				"type": "סוג",
+				"travel_management_system": "מערכת ניהול נסיעות",
+				"email": "מייל",
+				"phone": "טלפון",
+				"account_id": "ע.מ / ח.פ / ח.צ",
+				"car_number": "מספר רכב",
+				"car_info": "פרטי רכב",
+				"sub_constractor_code": "זיהוי ",
+				"invoice_name": "שם לחשבונית",
+				"icon_size": "סוג רכב",
+				"scopes": "היקף",
+				"customer_icon": ""
+			}
+		},
+		"tabs": {
+			"uploadPassengersDocument":{
+				"title_modal":"ייבוא מקובץ",
+				"actions": {
+					"create": "עדכן"
+				}
+
+			},
+			"order_container_price_list": {
+				"extension_types": {
+					"activity": "פעילות",
+					"fees": "מסלול",
+					"time": "זמן",
+					"route": "מסלול",
+					"additional": "נוספים",
+					"indulgences": "פינוקים",
+					"unexpected": "בלתי-צפוי"
+				},
+
+				"extentions": {
+					"undefined": "",
+					"additional": "נוספים",
+					"indulgences": "פינוקים",
+					"unexpected": "בלתי-צפוי",
+					"bus": "אוטובוס",
+					"minibus": "מיניובוס",
+					"car": "רכב",
+					"night": "לילה",
+					"weekend": "שבת",
+					"holiday": "חג",
+					"AnotherStationInTheCity": "תחנה נוספת בעיר",
+					"AnotherOutOfCityStation": "תחנה נוספת מחוץ לעיר",
+					"AnotherCity": "עיר נוספת",
+					"StabilizationOnly": "התייצבות בלבד",
+					"ReleaseOnly": "שחרור בלבד",
+					"FarRelease": "שחרור רחוק",
+					"EntranceToBenGurionAirport": "כניסה לנתב\"ג",
+					"CartaParkingLot": "חניון קרטא",
+					"TollRoad": "כביש אגרה",
+					"StandbyTime": "זמן המתנה",
+					"AdditionalDriver": "נהג נוסף",
+					"ExtraKm": "קמ\"ש נוסף",
+					"extraTime": "זמן נוסף",
+					"BasePrice": "מחיר בסיס",
+					"MinimumPrice": "מחיר מינימלי",
+					"WIFI": "WIFI",
+					"water": "מים",
+					"Package": "חבילה",
+					"OrderAfterTheHourX": "X הזמנה לאחר שעה",
+					"cancellation": "ביטול",
+					"percent": "אחוז",
+					"cost": "עלות",
+					"StbyTime": "זמו המתנה"
+				},
+				"selected_value_type": {
+					"type": "סוג ערך",
+					"percent": "אחוז",
+					"cost": "עלות",
+					"cancellation": "ביטול"
+				}
+			},
+			"price_list": {
+				"name": "מחירון",
+				"edit_tab": "הצג טבלת מחירונים"
+			},
+			"order_line_constraints": {
+				"name": "אילוצים",
+				"edit_tab": ""
+			},
+			"resources": {
+				"name": "משאבים",
+				"edit_tab": "הוסף משאב ",
+				"title_modal": " הוספת משאב  ",
+				"phone_number": " מספר טלפון ",
+				"nick_name": " שם נהג",
+				"car_number": " מספר רכב ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"customer": {
+				"name": "לקוח"
+			},
+			"orders_lines": {
+				"name": "שורות הזמנה",
+				"edit_tab": "ערוך שורה"
+			},
+			"orders": {
+				"name": "נסיעות ",
+				"edit_tab": ""
+			},
+			"order_container_constraints": {
+				"name": "אילוצים",
+				"edit_tab": "ערוך אילוצים"
+			},
+			"pricing_extra": {
+				"name": "תוספות",
+				"edit_tab": "הוסף תוספת"
+			},
+			"contracts": {
+				"name": "חוזים",
+				"edit_tab": "הצג בטבלת חוזים"
+			},
+			"versions": {
+				"name": "גרסאות",
+				"edit_tab": ""
+			},
+			"contacts": {
+				"name": "אנשי קשר",
+				"edit_tab": "הוסף איש קשר",
+				"title_modal": "הוספת איש קשר",
+				"actions": {
+					"create": "צור איש קשר"
+				}
+			},
+			"customers_contacts": {
+				"name": " קשרים",
+				"edit_tab": " הוסף קשר  ",
+				"title_modal": "הוספת קשר  ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+
+			"driver_connection": {
+				"name": "התקשרות",
+				"edit_tab": " הוסף אנשי קשר",
+				"title_modal": " הוספת איש קשר ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"chaperone_connection": {
+				"name": "התקשרות",
+				"edit_tab": " הוסף אנשי קשר",
+				"title_modal": " הוספת איש קשר ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"chaperone_capability": {
+				"license_number": "מספר רישיון ",
+				"license_expiration": "תוקף רישון",
+				"license_type": " דרגת רישיון",
+				"language": " שפות",
+				"religion": "דת ",
+				"gender": "מגדר ",
+				"M": "זכר",
+				"F": "נקבה",
+				"istian": "נוצרי",
+				"cristian": "נוצרי",
+				"jew": "יהודי",
+				"Jew": "יהודי",
+				"muslim": "מוסלמי",
+				"wearing_glasses": "משקפים ",
+				"weapons_license": "אקדח ",
+				"school_visa": "הסעות תלמידים ",
+				"title_modal": " יכולות ",
+				"name": "יכולות",
+				"edit_tab": " עדכן יכולות ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"chaperone_availability": {
+				"name": "זמינות",
+				"edit_tab": " עדכן זמינות ",
+				"edit_tab2": " צור אילוץ",
+				"contract_type": "חוזה עבודה",
+				"rest_day": "יום מנוחה",
+				"can_sleep_outside": "לינה מחוץ לבית ",
+				"work_at_weekend": "עבודה ביום מנוחה ",
+				"work_day_before_weekend": " עבודה בערב יום המנוחה/חג ",
+				"title_modal": " זמינות ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"driver_capability": {
+				"name": "יכולות",
+				"edit_tab": " עדכן יכולות ",
+				"license_number": "מספר רישיון ",
+				"license_expiration": "תוקף רישון",
+				"license_type": " דרגת רישיון",
+				"languages": " שפות",
+				"religion": "דת ",
+				"M": "זכר",
+				"F": "נקבה",
+				"female": "נקבה",
+				"istian": "נוצרי",
+				"cristian": "נוצרי",
+				"jew": "יהודי",
+				"muslim": "מוסלמי",
+				"gender": "מגדר ",
+				"wearing_glasses": "משקפים ",
+				"weapons_license": "אקדח ",
+				"school_visa": "הסעות תלמידים ",
+				"title_modal": " יכולות ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"driver_availability": {
+				"name": "זמינות",
+				"edit_tab": " עדכן זמינות ",
+				"edit_tab2": " צור אילוץ",
+				"contract_type": "חוזה עבודה",
+				"rest_day": "יום מנוחה",
+				"can_sleep_outside": "לינה מחוץ לבית ",
+				"work_at_weekend": "עבודה ביום מנוחה ",
+				"work_day_before_weekend": " עבודה בערב יום המנוחה/חג ",
+				"title_modal": " זמינות ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"driver_training": {
+				"name": "הכשרות",
+				"edit_tab": " יושלם בהמשך "
+			},
+			"driver_equipment": {
+				"name": "ציוד",
+				"edit_tab": " הוסף ציוד"
+			},
+			"driver_documents": {
+				"name": "מסמכים",
+				"edit_tab": " הוסף מסמך"
+			},
+			"driver_security": {
+				"name": "בטיחות",
+				"edit_tab": ""
+			},
+			"driver_history": {
+				"name": "היסטוריה",
+				"edit_tab": " יושלם בהמשך "
+			},
+			"constraints": {
+				"name": "אילוצים",
+				"edit_tab": " ערוך אילוצים ",
+				"title_modal": " ערוך אילוץ ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"sub_constractors_constraints": {
+				"name": "אילוצים",
+				"edit_tab": " ערוך אילוצים ",
+				"title_modal": " ערוך אילוץ ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"connections": {
+				"name": "קשרים",
+				"edit_tab": " הוסף קשרים"
+			},
+			"passengers": {
+				"name": "נוסעים",
+				"edit_tab": " הוסף נוסעים",
+				"extra_edit_tab": " ייבא מקובץ ",
+				"title_modal": " הוסף נוסע ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"holidays": {
+				"name": "לוח חופשות",
+				"edit_tab": " הוסף חופשה"
+			},
+			"capabilities": {
+				"name": "יכולות",
+				"edit_tab": " ערוך מידע טכני יכולות והתקנות",
+				"title_modal": "מידע טכני  יכולות והתקנות",
+				"items_in_tabs": ["יכולות", "התקנות", "מידע טכני"],
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"expenses": {
+				"name": "הוצאות",
+				"edit_tab": " ערוך אחזקה והוצאות ",
+				"title_modal": " אחזקה והוצאות",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"equipment": {
+				"name": "ציוד",
+				"edit_tab": " הוסף ציוד ",
+				"title_modal": " ציוד   ",
+				"actions": {
+					"create": "עדכן"
+				}
+			},
+			"documents": {
+				"name": "מסמכים",
+				"edit_tab": " הוסף מסמך ",
+				"title_modal": " מסמך",
+				"actions": {
+					"create": " עדכן"
+				}
+			},
+			"security": {
+				"name": "בטיחות",
+				"edit_tab": "  הוסף ביקורת",
+				"title_modal": " בטיחות ",
+				"actions": {
+					"create": " עדכן"
+				}
+			},
+			"treatments": {
+				"name": "טיפולים",
+				"edit_tab": "טיפולים ערוך",
+				"title_modal": " טיפולים ",
+				"actions": {
+					"create": " עדכן"
+				}
+			},
+			"history": {
+				"name": "היסטוריה",
+				"edit_tab": " ערוך",
+				"title_modal": "היסטוריה",
+				"actions": {
+					"create": " עדכן"
+				}
+			},
+			"exstas": {
+				"name": "תוספות",
+				"edit_tab": " ערוך",
+				"title_modal": "תוספות",
+				"actions": {
+					"create": " עדכן"
+				}
+			},
+			"lines": {
+				"name": "פריטים",
+				"edit_tab": " ערוך",
+				"title_modal": "תוספות",
+				"actions": {
+					"create": " פריטים"
+				}
+			}
+		},
+		"contacts": {
+			"keys": {
+				"address": "כתובת",
+				"email": "מייל",
+				"phone_number": "מספר טלפון",
+				"role": "תפקיד"
+			}
+		},
+		"drivers": {
+			"keys": {
+				"is_active": "סטטוס",
+				"tz": "תעודת זהות",
+				"first_name": "שם פרטי",
+				"driver_middle_name": "שם נוסף",
+				"last_name": "שם משפחה",
+				"nick_name": "שם לתצוגה",
+				"address": "כתובת",
+				"birth_date": "תאריך לידה",
+				"comment": "הערות",
+				"classification": "סיווג",
+				"itoran_code": "קוד איתוראן ",
+				"adress": "כתובת",
+				"street": "רחוב",
+				"city": "עיר",
+				"driver_email": "מייל",
+				"phone_number": "טלפון",
+				"car_number": "רכב משוייך",
+				"scopes": "היקף"
+			},
+			"actions": {
+				"create": "צור לקוח"
+			}
+		},
+		"chaperones": {
+			"keys": {
+				"available": "סטטוס",
+				"tz": "תעודת זהות",
+				"given_name": "שם פרטי",
+				"middle_name": "שם נוסף",
+				"last_name": "שם משפחה",
+				"nick_name": "שם לתצוגה",
+				"address": "כתובת",
+				"is_active": "סטטוס",
+				"birth_date": "תאריך לידה",
+				"comment": "הערות",
+				"adress": "כתובת",
+				"email": "מייל",
+				"phone_number": "טלפון",
+				"car_number": "רכב משוייך",
+				"scopes": "היקף"
+			},
+			"actions": {
+				"create": "צור לקוח"
+			}
+		},
+		"customers": {
+			"keys": {
+				"is_active": "סטטוס",
+				"address": "כתובת",
+				"comment": "הערות",
+				"classification": "סיווג",
+				"name": "שם ",
+				"adress": "כתובת",
+				"customer_email": "מייל",
+				"customer_phone": "טלפון",
+				"account_id": "ע.מ / ח.פ / ח.צ",
+				"car_number": "מספר רכב",
+				"car_info": "פרטי רכב",
+				"available": "סטטוס",
+				"customer_id": "זיהוי ",
+				"Invoice_name": "שם לחשבונית",
+				"icon_size": "סוג רכב",
+				"scope": "היקף",
+				"customer_icon": ""
+			},
+			"actions": {
+				"create": "צור לקוח"
+			}
+		},
+		"vehicles": {
+			"keys": {
+				"car_type_name": "סוג רכב",
+				"car_number": "מספר רכב",
+				"available": "סטטוס",
+				"scope": "היקף",
+				"comment": "הערות"
+			},
+			"actions": {
+				"create": "צור רכב"
+			}
+		},
+		"price_list": {
+			"keys": {
+				"status": "סטטוס",
+				"type": "סוג תמחור",
+				"vat": "מע\"מ"
+			},
+			"alerts": {
+				"cant_delete": "למחירון זה משוייך חוזה. אינך יכול למחוק את המחירון."
+			}
+		},
+		"contracts": {
+			"keys": {
+				"contract_descriptions": "תיאור",
+				"status": "סטטוס",
+				"items": "יתרה"
+			}
+		},
+		"orders_debriefs": {
+			"keys": {
+				"order_start": "עיתוי נסיעה",
+				"client_name": "שם לקוח",
+				"debrief_status": "סטטוס דו״ח",
+				"trip_total_time": "זמן",
+				"trip_total_distance": "מרחק",
+				"vehicle_type_name": "סוג רכב",
+				"vehicle_number": "רכב",
+				"driver_nick_name": "נהג",
+				"chaperone_nick_name": "מלווה",
+				"paid_road_name": "כביש אגרה",
+				"rounds": "סבבים",
+				"total_stations": "כמות תחנות בפועל",
+				"total_passengers_up": "כמות נוסעים",
+				"planned_stations": "כמות תחנות מתוכננות",
+				"order_id": "הזמנה",
+				"contract_name": "חוזה",
+				"order_price_list_id": "תוספות"
+			}
+		}
+	},
+	"menus": {
+		"addConstraint": "צור אילוץ חדש",
+		"addIssue": "צור אירוע משמעת חדש",
+		"addOrder": "צור הזמנה חדשה",
+		"addEntity": "צור יישות",
+		"client": "לקוח",
+		"sub_constractors": "קבלן משנה",
+		"vehicle": "רכב",
+		"driver": "נהג",
+		"chaperon": "מלווה",
+		"contracts": "חוזה",
+		"price_list": "מחירון",
+		"vacationCalendar": "לוח חופשות",
+		"users": "משתמש",
+		"vehicles_type": "סוג רכב",
+		"trip_type": "סוג נסיעה",
+		"records": "רשומות",
+		"entities": "יישויות",
+		"customers": "לקוחות",
+		"vehicles": "רכב",
+		"chaperones": "מלווים",
+		"drivers": "נהגים",
+		"subContractors": "קבלני משנה",
+		"SafetyDrivers": " בטיחות נהג",
+		"SafetyVehicles": "בטיחות רכב",
+		"scopes": "היקפים",
+		"zones": "היקפים",
+		"maintenance_vehicles": "רכבים באחזקה",
+		"vehicles_for_care": "רכבים לטיפול",
+		"maintenance trips": "נסיעות אחזקה",
+		"costs_clarification": "בירור עלויות",
+		"all_points_of_interest": "נקודות עיניין",
+		"proposals_for_unification": "הצעות לאיחוד",
+		"all_stations": "כל נקודות העיניין",
+		"user_roles": "הרשאות",
+		"permissions": "הרשאות"
+	},
+	"isActive": {
+		"true": "פעיל",
+		"false": "לא פעיל",
+		"draft": "טיוטה",
+		"bid": "הצעת מחיר",
+		"ended": "הסתיים"
+	},
+	"are_you_sure_modal": {
+		"generic_title": "ביטול יצירת ישות",
+		"generic_body": "ביטול יגרום לאיבוד הנתונים. \n האם להמשיך?",
+		"yes": "כן",
+		"no": "לא",
+		"delete_generic_title": "מחיקת {{entity}}",
+		"delete_generic_body": "האם אתה בטוח שברצונך למחוק את ה{{entity}}?"
+	},
+	"constraints": {
+		"constraint_types": {
+			"vehicle": "רכב",
+			"driver": "נהג",
+			"chaperone": "מלווה",
+			"blocked": "פסולים"
+		},
+		"constraints": {
+			"safety_belts": "חגורת בטיחות",
+			"wifi": "wifi",
+			"toilet": "שירותים",
+			"finishing": "גימור",
+			"clasify": "סיוג",
+			"language": "שפה",
+			"gender": "מגדר",
+			"driver": "נהג",
+			"chaperone": "מלווה",
+			"blocked": "פסולים",
+			"vehicle": "רכב",
+
+			"finishing_1": "נמוך",
+			"finishing_2": "בינוני",
+			"finishing_3": "יקר",
+			"clasify_1": "נמוך",
+			"clasify_2": "גבוה",
+			"language_he": "עברית",
+			"language_en": "אנגלית",
+			"language_ar": "ערבית",
+			"gender_m": "זכר",
+			"gender_f": "נקבה",
+			"driver_drivers": "שם נהג",
+			"chaperone_chaperones": "שם מלווה"
+		}
+	}
+}
