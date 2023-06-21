@@ -1,0 +1,20 @@
+.list-group-square{
+    height: 28px;
+    width: 102px;
+    border-radius: 4px;
+    background-color: rgba(192,200,217,0.38);
+    display: flex;
+    margin-left: 1rem;
+    align-items: center;
+    justify-content: center;
+    white-space: pre;
+  }
+  .list-group-square-text{
+  // height: 20px;
+  color: rgba(0,0,0,0.87);
+  font-family: Rubik;
+  font-size: 14px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  text-align: center;
+  }

@@ -1,0 +1,52 @@
+.zones-picker-wrapper{
+    display: flex;
+    flex-direction: column;
+    // :hover{
+    //     background-color: rgba(0,0,0,0.04);
+    // }
+    
+}
+
+.zone-wrapper{
+    display: flex;
+    flex-direction: row;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    // padding-top: 5px;
+    // padding-bottom: 5px;
+    // margin-right: -12px;    
+}
+.zone-wrapper:hover{
+    background-color: rgba(0,0,0,0.04);
+    
+}
+.zone-text{
+    height: fit-content;
+    width: 125.46px;
+    color: rgba(0,0,0,0.87);
+    font-family: 'Rubik', cursive !important;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    text-align: right;
+    margin-right: 7px !important;
+}
+
+.css-ahj2mt-MuiTypography-root{
+    font-family: 'Rubik', cursive !important;
+    font-size: 12px !important;
+    width: 115px !important;
+    text-align: right !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+}
+.css-9l3uo3{
+    margin-right: 7px !important;
+    font-size: 12px !important;
+    width: 115px !important;
+    text-align: right !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+}
