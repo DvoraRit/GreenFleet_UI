@@ -1,0 +1,166 @@
+.create-entity-container {
+	margin: 24px;
+	direction: rtl;
+	max-height: 40%;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+
+	.section-wrapper {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		// overflow-x: hidden;
+		width: 100%;
+		height: fit-content;
+
+		&.customers-3 {
+			.form-field-container {
+				width: 100%;
+				max-width: 100%;
+
+				&.comment {
+					//TODO: check if need to add also table name to className
+					max-width: 100%;
+					width: 100%;
+
+					div {
+						max-width: 100%;
+						width: 100%;
+					}
+				}
+			}
+		}
+
+		.section-title {
+			color: rgba(0, 0, 0, 0.6);
+			font-family: 'Rubik';
+			font-size: 12px;
+			letter-spacing: 0.4px;
+			line-height: 16px;
+			text-align: right;
+			margin-bottom: 28px;
+			width: 100%;
+		}
+
+		.form-field-container {
+			margin-bottom: 28px;
+			display: flex;
+			justify-content: flex-start;
+			align-items: flex-end;
+			padding: 0 8px;
+			height: fit-content;
+			&.constraint_for_entity {
+				margin-bottom: 28px;
+				margin-top: -28px;
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-end;
+				padding: 0 12px;
+				height: fit-content;
+			}
+			&.orders_price_extra {
+				margin-bottom: 28px;
+				margin-top: -28px;
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-end;
+				padding: 0 12px;
+				height: fit-content;
+			}
+
+			&.image {
+				//TODO: check if need to add also table name to className
+				width: 100%;
+				max-width: 100%;
+				height: 120px;
+			}
+			&.customer_icon {
+				//TODO: check if need to add also table name to className
+				width: 100%;
+				max-width: 100%;
+				margin-top: 80px;
+				// height: 120px;
+			}
+			&._lines {
+				margin-bottom: 28px;
+				margin-top: -28px;
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-end;
+				padding: 0 12px;
+				height: fit-content;
+			}
+			&.extras {
+				margin-bottom: 28px;
+				margin-top: -28px;
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-end;
+				padding: 0 12px;
+				height: fit-content;
+			}
+			&.system_type {
+				margin-bottom: 28px;
+				margin-top: -28px;
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-end;
+				padding: 0 12px;
+				height: fit-content;
+			}
+			&.license_type {
+				margin-bottom: 28px;
+				margin-top: -28px;
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-end;
+				padding: 0 12px;
+				height: fit-content;
+			}
+			&.sub_contractor_icon {
+				margin-bottom: 28px;
+				margin-top: -28px;
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-end;
+				padding: 0 12px;
+				height: fit-content;
+			}
+			&.document_path {
+				margin-bottom: 28px;
+				margin-top: -28px;
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-end;
+				padding: 0 12px;
+				height: fit-content;
+			}
+			&.file_path {
+				margin-bottom: 28px;
+				margin-top: -28px;
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-end;
+				padding: 0 12px;
+				height: fit-content;
+			}
+			&.items {
+				margin-bottom: 28px;
+				margin-top: -28px;
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-end;
+				padding: 0 12px;
+				height: fit-content;
+			}
+			&.contract_name {
+				padding-left: 0 8px;
+			}
+			&.contact_person {
+				opacity: 0.6;
+				pointer-events: none;
+			}
+		}
+	}
+}

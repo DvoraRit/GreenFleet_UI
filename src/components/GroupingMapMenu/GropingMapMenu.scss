@@ -1,0 +1,104 @@
+.arrowMoreInfo{
+    height: 13px;
+    width: 13px;
+	margin-left: 0.8rem
+}
+.subTitleGroup{
+    font-family: Rubik;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    line-height: 28px;
+    text-align: right;
+	font-weight: 500;
+	margin-right: 0.8rem
+}
+.tooltipGroup{
+    position: absolute;
+    z-index: 999 !important;
+}
+.rowWrapperMap{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+    align-items:center;
+    height: inherit;
+	margin-top: 10px;
+}
+.rowWrapperMap:hover{
+    background-color: rgba(0,0,0,0.08);
+ }
+ .formControl{
+     height: fit-content;
+     width: 181px;
+     color: rgba(0,0,0,0.87);
+     font-family: 'Rubik', cursive !important;
+     font-size: 14px;
+     letter-spacing: 0.25px;
+     line-height: 20px;
+     text-align: right;
+     margin-right: 7px !important;
+     height: 30px !important;
+	 padding: 0 !important;
+
+ }
+ .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked, .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate{
+    color: #00e6ac !important;
+    }
+ .formControl:hover{
+	 padding: 0;
+    background-color: rgba(0,0,0,0.08);
+ }
+//  .iconMenuGroup{
+// 	height: 100%;
+// 	width: 100%;
+//  }
+.iconMenuActive{
+    margin-left: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 54px;
+	width: 54px;
+	border: 1px solid rgba(192,200,217,0.38);
+	border-radius: 8px;
+	box-shadow: 0 2px 25px 0 rgb(192,200,217);
+	background-color:#bdf2e3
+	// background-color: rgba(46,196,182,0.17);
+}
+.iconMenu{
+    margin-left: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 54px;
+	width: 54px;
+	border: 1px solid rgba(192,200,217,0.38);
+	border-radius: 8px;
+	background-color: #FFFFFF;
+	box-shadow: 0 2px 25px 0 rgba(192,200,217,0.6);
+
+}
+.GroupingMapMenu{
+  cursor: pointer;
+  position: relative
+}
+.Wrapper_grouping-map{
+    background-color:rgb(253, 253, 253);
+    padding: 13px;
+    height: 160px;
+    width: 224px;
+    position:absolute;
+}
+
+.formControlLabel{
+    color:aqua;
+}
+.menu-wrapper{
+    padding: 10px;
+    cursor:pointer;
+    background-color:white;
+    border-radius:9px;
+}
+.menu-wrapper-open{
+    cursor:pointer;
+}

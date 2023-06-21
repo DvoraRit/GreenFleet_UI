@@ -1,0 +1,24 @@
+.color-container {
+	min-height: 15px;
+	max-height: 15px;
+	min-width: 15px;
+	max-width: 15px;
+	margin: 0 0px 0 10px;
+}
+.dot-in-drop-list-item {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: #fff;
+	margin: 0 5px;
+}
+.selected_values_to_show{
+	//font-family: 'Rubik', cursive;
+    //font-size: 12px;
+    //font-weight: 500;
+    //letter-spacing: 2px;
+    //line-height: 16px;
+    text-align: right;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

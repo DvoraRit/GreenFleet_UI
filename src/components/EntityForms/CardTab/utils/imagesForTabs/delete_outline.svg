@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0A18876B-2010-42CB-96EF-0925039F3D64@2x</title>
+    <defs>
+        <path d="M1,16 C1,17.1 1.9,18 3,18 L11,18 C12.1,18 13,17.1 13,16 L13,4 L1,4 L1,16 Z M3,6 L11,6 L11,16 L3,16 L3,6 Z M10.5,1 L9.5,0 L4.5,0 L3.5,1 L0,1 L0,3 L14,3 L14,1 L10.5,1 Z" id="path-1"></path>
+    </defs>
+    <g id="Car" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Car:-1-4.3" transform="translate(-21.000000, -440.000000)">
+            <g id="Card" transform="translate(-0.500000, 0.000000)">
+                <g id="Tabs" transform="translate(0.000000, 323.590406)">
+                    <g id="Equipment-Copy-4" transform="translate(16.500000, 102.000000)">
+                        <g id="icon/image/picture_as_pdf_24px-copy-4" transform="translate(5.000000, 15.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="icon/action/delete_outline_24px" fill-rule="nonzero"></g>
+                            <g id="↳-Color" mask="url(#mask-2)" fill="#262A52">
+                                <g transform="translate(-5.000000, -3.000000)" id="Rectangle">
+                                    <rect x="0" y="0" width="24" height="24"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

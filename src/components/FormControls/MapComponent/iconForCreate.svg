@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="15px" viewBox="0 0 12 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>D323D938-CF87-4780-9BC9-D1909912E4F4@1.5x</title>
+    <defs>
+        <path d="M4.92697665,-9.89368698 C2.0668667,-9.89368698 -0.246348832,-7.6550913 -0.246348832,-4.88724297 C-0.246348832,-1.13240996 4.92697665,4.41043878 4.92697665,4.41043878 C4.92697665,4.41043878 10.1003021,-1.13240996 10.1003021,-4.88724297 C10.1003021,-7.6550913 7.78708659,-9.89368698 4.92697665,-9.89368698 Z M4.92697665,-3.09922725 C3.90709248,-3.09922725 3.07936041,-3.90025829 3.07936041,-4.88724297 C3.07936041,-5.87422764 3.90709248,-6.67525869 4.92697665,-6.67525869 C5.94686082,-6.67525869 6.77459289,-5.87422764 6.77459289,-4.88724297 C6.77459289,-3.90025829 5.94686082,-3.09922725 4.92697665,-3.09922725 Z" id="path-1"></path>
+    </defs>
+    <g id="Driver" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Driver:-2-1" transform="translate(-683.000000, -144.000000)">
+            <g id="Popup" transform="translate(440.000000, 86.000000)">
+                <g id="icon/Map/Map/Destenition_24px" transform="translate(240.000000, 57.000000)">
+                    <g id="End-Point" transform="translate(3.941581, 11.324100)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="icon/maps/place_24px" fill="#6F85FF" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

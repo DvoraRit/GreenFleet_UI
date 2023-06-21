@@ -1,0 +1,28 @@
+.doc-picker-wrapper {
+	.add-new-doc-container {
+		cursor: pointer;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+
+    .delete-container{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-end;
+      margin-right: 10px;
+    }
+
+		.icon-container {
+			margin-left: 5px;
+		}
+		.text-container {
+			color: #2ec4b6;
+			font-family: Rubik;
+			font-size: 14px;
+			letter-spacing: 1.25px;
+			line-height: 16px;
+			text-align: right;
+		}
+	}
+}
